@@ -1,7 +1,7 @@
 **Set theory** is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory, as a branch of mathematics, is mostly concerned with those that relevant to mathematics as a whole
 
 
-#### 1. Introduction
+### 1. Introduction
 
 - A **set** is a collection of objects called **elements**
 
@@ -34,7 +34,7 @@ $Z^+ = \{1,\ 2, \ 3,\ 4,\ \dots \}$ - Implied pattern forever
 * $2Z = \{\dots,-4,-2,\ 0,\ 2,\ \dots \} = \{2n\ |\ n \in Z \}$
 
 
-#### 2. Cartesian Product and ordered pairs
+### 2. Cartesian Product and ordered pairs
 
 * An ordered pair $(a, b)$ is a set $\{\{a\},\ \{a,b\}\}$
 
@@ -57,7 +57,7 @@ $B^2 = B \times B = \{(c,c),\ (c,d),\ (d,c),\ (d,d)\}$
 $\varnothing \times B = \varnothing$
 
 
-#### 3. Subsets and power sets
+### 3. Subsets and power sets
 
 * If **A** is a **subset** of **B**, then every element in A must also be in B ($A \subseteq B$)
 
@@ -79,7 +79,7 @@ If $|A|$ = n, then $|p(A)| = 2^{|A|} = 2^n$
 If $|C| = k$ and $|D| = j$, then $|p(C \times D)| = 2^{|C|*|D|} = 2^{kj}$
 
 
-#### 4. Set operations
+### 4. Set operations
 
 The **complement** of A is written as $\bar A$
 * $\bar A = \{a \in U\ |\ a \not\in A\}$

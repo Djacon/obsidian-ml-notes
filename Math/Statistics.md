@@ -1,7 +1,7 @@
 Statistics is a mathematical body of science that refers to the collection, analysis, interpretation or explanation, and presentation of [[data]], or as a branch of math. Some consider statistics to be a distinct mathematical science rather than a branch of mathematics. While many scientific investigations make use of data, statistics is concerned with the use of data in the context of uncertainty and decision making in the face of uncertainty.
 
-### 1. Introduction:
-#### 1.1 Population and sample
+## 1. Introduction:
+### 1.1 Population and sample
 
 The Population is the entire population of units of observation that are relevant to the topic of the study. For example, if you are doing a product study, your general population is likely to be all service users or a specific segment.
 
@@ -15,7 +15,7 @@ A sample population is the part of the population that you study using tools you
 ![[Sampling_image.png]]
 
 
-#### 1.2 Type of variables in statistics
+### 1.2 Type of variables in statistics
 
 1. Quantitative - measured values:
 	1. Continuous (e.x.: $height \in (150, 200)$)
@@ -24,7 +24,7 @@ A sample population is the part of the population that you study using tools you
 3. Ordinal - operations of comparison
 
 
-#### 1.3 Central tendency measures
+### 1.3 Central tendency measures
 
 * **Mean** - average value in the sample
 * **Median** - a number in the middle of an ordered dataset
@@ -39,7 +39,7 @@ A sample population is the part of the population that you study using tools you
 * $\sum_{i=0}^n (x_i - M_x) = 0$
 
 
-#### 1.4 Measure of Variability
+### 1.4 Measure of Variability
 
 **Range** (Размах) is a difference of maximum and minimum values
 $$R = X_{max} - X_{min}$$
@@ -57,7 +57,7 @@ $$D = \frac{\sum (x_i - \bar x)^2}{n - 1},\ \sqrt{D}=\sigma \ (std)$$
 * $std_{x\cdot C} = std_x \cdot C$
 
 
-#### 1.5 Distribution quartiles and boxplot
+### 1.5 Distribution quartiles and boxplot
 
 **Quantile** is the value that a given random variable does not exceed with a fixed probability: $P(X \leq x_a) \geq \alpha$
 
@@ -67,7 +67,7 @@ $$D = \frac{\sum (x_i - \bar x)^2}{n - 1},\ \sqrt{D}=\sigma \ (std)$$
 
 ![[Boxplot_outliers_image.webp]]
 
-#### 1.6 Normal Distribution
+### 1.6 Normal Distribution
 
 **Normal distribution** or **Gaussian distribution** is a type of continuous probability distribution for real-valued variable. The general form of its **probability density function** (PDF) is:
 
@@ -89,7 +89,7 @@ Where:
 ![[Standardized_normal_distribution_image.jpg]]
 
 
-#### 1.7 Central Limit Theorem
+### 1.7 Central Limit Theorem
 
 **The Central Limit Theorem (CLT)** establishes that, in many situations, for identically distributed independent samples, the standardized sample mean tends towards the standard normal distribution even if the original variables themselves are not normally distributed.
 
@@ -100,7 +100,7 @@ $$
 ![[IllustrationCentralTheorem_image.jpg]]
 
 
-#### 1.8 Confidence intervals
+### 1.8 Confidence intervals
 
 The **Confidence Interval (CI)** is the range of values that you expect your estimate to fall between a certain percentage of the time if you run your experiment again or re-sample the population in the same way.
 
@@ -113,7 +113,7 @@ $$
 ![[Confidence_interval_image.jpg]]
 
 
-#### 1.9 The idea behind statistical inference
+### 1.9 The idea behind statistical inference
 
 **The null hypothesis ($H_0$)** is that there is **no significant** difference between the mean of the sample and the mean of the population 
 
@@ -125,8 +125,8 @@ $$
 **Type 2 Error** - $H_0$ is accepted, although $H_1$ are true
 
 
-### 2. Comparison of averages:
-#### 2.1 T-distribution
+## 2. Comparison of averages:
+### 2.1 T-distribution
 
 If the number of observations is small and unknown, then the **T-distribution** is used: unimodal, symmetric, but observations are more likely to fall outside the $\pm 2\sigma$ limit of the mean $M$ than the normal distribution.
 
@@ -135,7 +135,7 @@ The shape of the distribution is determined by the number of **degrees of freedo
 ![[T-distribution_image.jpg]]
 
 
-#### 2.2 Comparison of two averages; Student's t-test
+### 2.2 Comparison of two averages; Student's t-test
 
 $$H_0: M_1 = M_2,\ H_1: M_1 \neq M2$$
 $$

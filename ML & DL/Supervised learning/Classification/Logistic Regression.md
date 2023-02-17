@@ -7,7 +7,7 @@ $$
 
 #### Derivative of a Function:
 $$
-\delta Loss = 2\sum_{i=1}^n(\hat y_i-y_i)
+Not\ found,\ yet!
 $$
 
 #### Solution Algorithm:

@@ -1,4 +1,4 @@
-**Mean Squared Error (MSE)** is a [[metric]] measured the average of the square errors - that is, the average squared difference between the estimated values and the actual value. MSE is a **Loss function**, corresponding to the expected value of the squared error loss.
+**Mean Squared Error (MSE)** is a [[metric]] measured the average of the square errors - that is, the average squared difference between the estimated values and the actual value. MSE is a **Loss function**, corresponding to the expected value of the squared error loss
 
 #### Evaluation Function:
 $$

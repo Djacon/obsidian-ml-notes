@@ -1,4 +1,4 @@
-**Linear Regression (LR)** is a statistical [[supervised learning]] model to predict the quantitative variable by forming a linear relationship with one or more independent features by minimazing the [[Residual Sum of Squares]] (RSS)
+**Linear Regression (LR)** is a statistical [[supervised learning]] linear model to predict the quantitative variable by forming a linear relationship with one or more independent features by minimazing the [[Residual Sum of Squares]] (RSS)
 
 #### Loss Function:
 $$
@@ -15,45 +15,17 @@ $$
 w = (X^TX)^{-1}X^Ty
 $$
 
-![[LR_image.png]]
 
-We can write the linear function as follows:
-$$
-y = Xw + \epsilon,\ where
-$$
-$$
-y =
-\begin{bmatrix}
-y_1\\
-y_2\\
-\vdots\\
-\ y_k\
-\end{bmatrix},
-\ \
-\epsilon =
-\begin{bmatrix}
-\epsilon_1\\
-\epsilon_2\\
-\vdots\\
-\ \epsilon_k\
-\end{bmatrix}
-$$
+#### Addition:
+
+**Ordinary Least Squares (OLS)** is the simplest method for solving problems using linear regression
 
 $$
-X =
-\begin{bmatrix}
-\ 1 & x_{11} & \dots & x_{1n}\\  
-\ 1 & x_{21} & \dots & x_{2n}\\
-\vdots & \vdots & \ddots & \vdots\\
-\ 1 & x_{k1} & \dots & x_{kn}\
-\end{bmatrix},
-\ \
-w =
-\begin{bmatrix}
-w_0\\
-w_1\\
-w_2\\
-\vdots\\
-\ w_n\
-\end{bmatrix}
+|y - Xw|^2_2 \rightarrow \min_w
 $$
+
+**Time Complexity**: 
+- $O(N^2D+D^3)$, where N - sample size, D - number of features  
+
+**Space Complexity**:  
+-  ¯\\_(ツ)_/¯ 

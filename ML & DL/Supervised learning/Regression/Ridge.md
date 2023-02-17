@@ -1,4 +1,4 @@
-**Ridge (L2-regularization)** is a method of estimating the coefficients of multiple-regression models in scenarios where the independent variables are highly correlated. Can be calculated by finding the [[Residual Sum of Squares]] (RSS) and [[Euclidean normalization]]
+**Ridge (L2-regularization)** is a linear method of estimating the coefficients of multiple-regression models in scenarios where the independent variables are highly correlated. Can be calculated by finding the [[Residual Sum of Squares]] (RSS) and [[Euclidean normalization]]
 
 #### Loss Function:
 $$
