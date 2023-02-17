@@ -1,0 +1,1 @@
+**Metric** is a function for evaluating the performance of a particular [[Machine Learning]] algorithm. Each individual task may require a different metric, so you need to understand in which task to apply one or another metric

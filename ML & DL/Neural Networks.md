@@ -1,0 +1,1 @@
+**Artificial Neural Networks (ANNs),** usually simply called neural networks (NNs) or neuralnets, are computing systems inspired by the biological neural networks that constitute animal brains

@@ -1,0 +1,1 @@
+**Artificial Intelligence (AI)** is intelligence - perceiving, synthesizing, and inferring information - demonstrated by machines, as opposed to intelligence displayed by non-humans animals and humans. Example tasks in which this is done include speech recognition, [[Computer Vision]], translation between (natural) languages, as well as other mappings of inputs
