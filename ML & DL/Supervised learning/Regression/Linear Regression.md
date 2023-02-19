@@ -10,19 +10,27 @@ $$
 \delta Loss = \delta RSS = 2\sum_{i=1}^n(\hat y_i-y_i)
 $$
 
-#### Solution Algorithm:
+#### Analytic Solution:
 $$
 w = (X^TX)^{-1}X^Ty
 $$
 
+#### Numerical method:
+
+```python
+# Get predictions
+y_pred = X @ w + b
+
+# Get gradients of the loss function
+Y_grad = _get_gradient_loss(y, y_pred) # ex: Y = 2 * (y_pred - y)
+
+# Update weights and bias
+w -= learning_rate * Y_grad @ X
+b -= learning_rate * Y_grad.sum()
+```
+
 
 #### Addition:
-
-**Ordinary Least Squares (OLS)** is the simplest method for solving problems using linear regression
-
-$$
-|y - Xw|^2_2 \rightarrow \min_w
-$$
 
 **Time Complexity**: 
 - $O(N^2D+D^3)$, where N - sample size, D - number of features  

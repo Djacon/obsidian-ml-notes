@@ -2,7 +2,7 @@
 
 #### Evaluation Function:
 $$
-MAPE = \frac{1}{n} \sum_{i=1}^n \frac{|y_i - \hat y_i|}{|y_i|}
+MAPE = \frac{1}{n} \sum_{i=1}^n \left|\frac{y_i - \hat y_i}{y_i}\right|
 $$
 
 #### Derivative of a Function:

@@ -16,30 +16,3 @@ Machine learning approaches are traditionally divided into three broad categorie
 
 
 ![[ML_image.jpg]]
-
-
-# 2. Supervised Learning
-## 2.1. Linear model
-
-**Linear models** is a models in the form:
-$$  
-y = w_0 + w_1x_1 + w_2x_2 +... + w_nx_n = w_0 + \sum_{i=1}^nw_ix_i
-$$
-$$
-y = \braket{x, w} + w_0
-$$
-
-****
-
-### Gradient Descent  
-$$  
-w_j \rightarrow w_j - \alpha \cdot \frac{\delta L}{\delta w_j}  
-$$  
-  
-**Time Complexity**:  
-  
-- $O(NDS)$, where N - sample size, D - number of features  
-  
-**Space Complexity**:  
-  
-- $O(ND)$

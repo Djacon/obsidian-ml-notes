@@ -6,8 +6,9 @@ The computer is presented with example inputs and their desired outputs, given b
 	1. [[Linear Regression]]
 	2. [[Ridge]] (L2-regularization)
 	3. [[Lasso]] (L1-regularization)
-	4. Elastic-net
-	5. [[Logistic Regression]]
+	4. [[Elastic-net]]
+	5. [[SGDRegressor]]
+	6. [[Logistic Regression]]
 2. Tree-Based Models:
 	1. Decision Tree Regressor
 	2. Random Forest Regressor

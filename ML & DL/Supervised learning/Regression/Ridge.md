@@ -7,10 +7,25 @@ $$
 
 #### Derivative of a Function:
 $$
-\delta Loss = \delta RSS + 2\lambda\cdot w = 2\cdot\left(\sum_{i=1}^n(\hat y_i-y_i) + \lambda\sum_{j=1}^p w_j\right)
+\frac{\delta Loss}{\delta w_j} = \frac{\delta RSS}{\delta w_j} + 2\lambda\cdot w_j = 2\cdot\left(\sum_{i=1}^n(\hat y_i-y_i)\cdot x_{ji} + \lambda\cdot w_j\right)
 $$
 
-#### Solution Algorithm:
+#### Analytic Solution:
 $$
 w = (X^TX+\lambda I)^{-1}X^Ty
 $$
+
+#### Numerical method:
+
+```python
+# Get predictions
+y_pred = X @ w + b
+
+# Get gradients of the loss function
+Y_grad = _get_gradient_loss(y, y_pred) # ex: Y = 2 * (y_pred - y)
+
+# Update weights and bias
+w -= learning_rate * (Y_grad @ X + 2 * alpha * w)
+b -= learning_rate * Y_grad.sum()
+```
+

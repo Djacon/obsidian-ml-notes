@@ -1,5 +1,4 @@
-**Lasso (L1-regularization)** is an alternative to ridge for regularizing linear regression. Can be calculated by finding the [[Residual Sum of Squares]] (RSS) and [[Manhattan normalization]]
-
+**Least Absolute Shrinkage and Selection Operator (L1-regularization)** is an alternative to ridge for regularizing linear regression. Can be calculated by finding the [[Residual Sum of Squares]] (RSS) and [[Manhattan normalization]]
 
 #### Loss Function:
 $$
@@ -8,10 +7,21 @@ $$
 
 #### Derivative of a Function:
 $$
-\delta Loss = \frac{1}{2n}\delta RSS + \lambda\cdot sgn(w) = \frac{1}{n}\sum_{i=1}^n(\hat y_i-y_i) + \lambda\sum_{j=1}^p sgn(w_j)
+\frac{\delta Loss}{\delta w_j} = \frac{1}{2n}\cdot\frac{\delta RSS}{\delta w_j} + \lambda\cdot sgn(w_j) = \frac{1}{n}\sum_{i=1}^n(\hat y_i-y_i)\cdot x_{ji} + \lambda\cdot sgn(w_j)
 $$
 
-#### Solution Algorithm:
-$$
-w = (X^TX+n\cdot\lambda I)^{-1}X^Ty
-$$
+#### Analytic Solution:
+<h5 align='center' style='color:red'>There is no closed-form solution</h5>
+#### Numerical method:
+
+```python
+# Get predictions
+y_pred = X @ w + b
+
+# Get gradients of the loss function
+Y_grad = _get_gradient_loss(y, y_pred) # ex: Y = 2 * (y_pred - y)
+
+# Update weights and bias
+w -= learning_rate * (Y_grad @ X / (2 * n) + alpha * np.sign(w))
+b -= learning_rate * Y_grad.mean()
+```

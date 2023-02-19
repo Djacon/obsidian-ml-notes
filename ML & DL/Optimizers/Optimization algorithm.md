@@ -1,0 +1,1 @@
+**Optimizer algorithm** is an algorithm for finding points of the function extremum and minimizing the loss function
