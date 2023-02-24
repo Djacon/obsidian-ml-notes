@@ -1,4 +1,4 @@
- **Elastic net** is a regularized regression method that linearly combines the L1 and L2 penalties of the [[lasso]] and [[ridge]] methods. Also it used in the fitting of linear or logistic regression models
+**Elastic net** is a regularized regression method that linearly combines the L1 and L2 penalties of the [[lasso]] and [[ridge]] methods. Also it used in the fitting of linear or logistic regression models
 
 
 #### Loss Function:

@@ -4,8 +4,8 @@
 
 * [[Discrete mathematics]]
 * [[Algebra]]
+* [[Calculus]]
 * Geometry
-* Calculus and analysis
 * Theory of Probability
 * [[Statistics]]
 * Number Theory

@@ -1,4 +1,4 @@
-**Mean Absolute Error (MAE)** is a [[metric]] measured the average of the absolute errors - that is, the average absolute difference between the estimated values and the actual value. MAE is a **Loss function**, corresponding to the expected value of the squared error loss.
+**Mean Absolute Error (MAE)** is a [[metric]] measured the average of the absolute errors - that is, the average absolute difference between the estimated values and the actual value. MAE is a **Loss function**, corresponding to the expected value of the squared error loss
 
 #### Evaluation Function:
 $$

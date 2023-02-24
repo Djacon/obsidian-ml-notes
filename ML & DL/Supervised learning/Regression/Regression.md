@@ -1,6 +1,6 @@
 **Regression** in probability theory and math [[statistics]] is a one-way stochastic relationship that establishes a relationship between random variables, that is, a math expression that reflects the relationship between the dependent variable $y$ and the independent variables $x$, provided that this expression will have statistical significance.
 
-#### List of regression algorithms in Machine Learning:
+#### List of the main regression algorithms in ML:
 
 1. [[Linear Regression]]
 2. [[Ridge]] (L2-regularization)

@@ -1,7 +1,7 @@
 **Classification** is a [[machine learning]] algorithm in which the target label $y$ is predicted using various features $x$. The input data can be anything, including continuous numbers, text, pictures, etc., while the output should be an integer, that is, the class to which the model assigned a particular value
 
 
-#### List of classification algorithms in Machine Learning:
+#### List of the main classification algorithms in ML:
 
 1. [[Logistic Regression]]
 2. Linear Discriminant Analysis (LDA)

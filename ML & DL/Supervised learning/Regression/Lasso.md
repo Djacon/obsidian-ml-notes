@@ -19,7 +19,7 @@ $$
 y_pred = X @ w + b
 
 # Get gradients of the loss function
-Y_grad = _get_gradient_loss(y, y_pred) # ex: Y = 2 * (y_pred - y)
+Y_grad = _get_gradient_loss(y, y_pred) # Y = 2 * (y_pred - y)
 
 # Update weights and bias
 w -= learning_rate * (Y_grad @ X / (2 * n) + alpha * np.sign(w))

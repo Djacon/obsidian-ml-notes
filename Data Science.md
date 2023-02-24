@@ -1,11 +1,11 @@
-**Data Science (DS)** is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes, [[algorithms]] and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured [[data]]
+**Data Science (DS)** is an interdisciplinary academic field that uses [[statistics]], scientific computing, scientific methods, processes, [[algorithms]] and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured [[data]]
 
 ### Knowledge required for Data Science:
 
 * [[Math]]
 	* [[Statistics]]
 	* Theory of Probability
-	 * Calculus and analysis
+	* Calculus and analysis
 	* [[Algebra]]
 
 * [[Computer Science]]

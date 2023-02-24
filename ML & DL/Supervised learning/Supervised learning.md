@@ -2,7 +2,7 @@ The computer is presented with example inputs and their desired outputs, given b
 
 #### Supervised learning models:
 
-1. Linear Models:
+1. [[Linear Regressor]]
 	1. [[Linear Regression]]
 	2. [[Ridge]] (L2-regularization)
 	3. [[Lasso]] (L1-regularization)
@@ -17,6 +17,7 @@ The computer is presented with example inputs and their desired outputs, given b
 	5. Ada Boost Regressor
 3. Support Vector Machines (SVM):
 	1. SVR
+	2. SVC
 4. Naive Bayes:
 	1. GaussianNB
 	2. MultinomialNB
