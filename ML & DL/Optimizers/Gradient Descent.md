@@ -5,9 +5,20 @@ $$
 w_j \rightarrow w_j - \alpha \cdot \frac{\delta L}{\delta w_j}  
 $$
 
+#### Pros and Cons:
+
+* Pros:
+	* Converges (gradient descent is guaranteed to converge to a minimum of a function)
+	* Simplicity (easy to understand and implement)
+	* Good for small datasets
+* Cons:
+	* Computationaly expensive for large datasets (it compute gradient of all data every iteration)
+	* Highly dependent to hyperparameters (such as learning rate - $\alpha$)
+	* Tendency to local optima
+
 #### Addition:
 
 * **Time Complexity**:
-	- $O(NDS)$, where N - sample size, D - number of features  
+	- -
 - **Space Complexity**: 
-	- $O(ND)$
+	- -

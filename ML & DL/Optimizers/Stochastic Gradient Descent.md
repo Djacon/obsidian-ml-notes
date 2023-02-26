@@ -5,9 +5,21 @@ $$
 w_j \rightarrow w_j - \frac{\alpha}n \sum_{i=1}^n\frac{\delta L_i}{\delta w_j}  
 $$
 
+#### Pros and Cons:
+
+* Pros:
+	* Computational efficiency (unlike gradient descent, it computes only small subsets)
+	* Memory efficiency (since only small subsets are computed, the computer uses less memory)
+	* Good for large datasets
+	* Robustness when dealing with noisy or sparse data
+* Cons:
+	* Slow convergence
+	* Highly dependent to hyperparameters (such as learning rate - $\alpha$)
+	* Tendency to local optima
+
 #### Addition:
 
 * **Time Complexity**:
-	- $O(NDS)$, where N - batch size, D - number of features  
+	- -
 - **Space Complexity**: 
-	- $O(ND)$
+	-  -

@@ -1,4 +1,4 @@
-**Linear classifier** is a way to solve [[classification]] problems, where you need to divide data into classes. The class of problems that can be solved by linear classifiers has, respectively, the property of linear divisibility (the data can be separated by a straight line)
+**Linear classifiers** are a type of [[machine learning]] [[classification]] algorithm used for predicting the class of a given input. The basic idea behind these models is to use a linear function to separate the different classes
 
 #### Prediction formula:
 $$

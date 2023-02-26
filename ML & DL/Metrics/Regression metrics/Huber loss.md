@@ -15,6 +15,9 @@ $$
 
 * Pros:
 	* Very robust to outliers
-	* -
+	* Continuous and differentiable
+	* It have balance between MSE and MAE (good for large and small errors)
 * Cons:
-	* -
+	* Requires tuning '$\delta$' parameter (choosing an appropriate value for '$\delta$' can be difficult and may require trial and error)
+	* Have less support in libraries and frameworks (unlike MSE and MAE)
+	* Sensitive to the choice of '$\delta$'
