@@ -1,4 +1,4 @@
-Statistics is a mathematical body of science that refers to the collection, analysis, interpretation or explanation, and presentation of [[data]], or as a branch of [[math]]. Some consider statistics to be a distinct mathematical science rather than a branch of mathematics. While many scientific investigations make use of data, statistics is concerned with the use of data in the context of uncertainty and decision making in the face of uncertainty
+**Statistics** is a mathematical body of science that refers to the collection, analysis, interpretation or explanation, and presentation of [[data]], or as a branch of [[math]]. Some consider statistics to be a distinct mathematical science rather than a branch of mathematics. While many scientific investigations make use of data, statistics is concerned with the use of data in the context of uncertainty and decision making in the face of uncertainty
 
 ## 1. Introduction:
 ### 1.1. Population and sample
@@ -15,15 +15,7 @@ A [[sample]] population is the part of the population that you study using tools
 ![[Sampling_image.png]]
 
 
-### 1.2. Type of variables in statistics
-
-1. Quantitative - measured values:
-	1. Continuous (e.x.: $height \in (150, 200)$)
-	2. Discrete (e.x.: 1, 2, 3, 4,...)
-2. Nominative (categorical) - aggregated values (e.x. Male = 1; Female = 2)
-3. Ordinal - operations of comparison
-
-
+### 1.2. Types of [[Data]] in statistics
 ### 1.3. [[Central tendency measures]]
 ### 1.4. [[Measure of Variability]]
 ### 1.5. Distribution quartiles and boxplot
@@ -36,39 +28,8 @@ A [[sample]] population is the part of the population that you study using tools
 
 ![[Boxplot_outliers_image.webp]]
 
-### 1.6. Normal Distribution
-
-**Normal distribution** or **Gaussian distribution** is a type of continuous probability distribution for real-valued variable. The general form of its **probability density function** (PDF) is:
-
-$$
-f(x) = \frac{1}{\sigma\sqrt{2\pi}}e^{-(\frac{x-\mu}{4\sigma})^2}
-$$
-
-**Standardization (Z-normalization)** refers to the process of normalizing every value in a dataset such that the mean of all of the values is 0 ($M_z = 0$) and the standard deviation is 1 ($D_z = 1$)
-
-$$
-Z = \frac{X-\mu}\sigma \ or\ Z = \frac{\bar X-\mu}{\sigma/\sqrt{n}}
-$$
-Where:
--  **x**: Original value
--  **μ**: Mean of data
--  **σ**: Standard deviation of data
--  **n**: Number of samples
-
-![[Standardized_normal_distribution_image.jpg]]
-
-
-### 1.7. Central Limit Theorem
-
-**The Central Limit Theorem (CLT)** establishes that, in many situations, for identically distributed independent samples, the standardized sample mean tends towards the standard normal distribution even if the original variables themselves are not normally distributed.
-
-$$
-Z = \lim_{n\rightarrow\infty}(\frac{X_n-\mu}{\sigma/\sqrt{n}})
-$$
-
-![[IllustrationCentralTheorem_image.jpg]]
-
-
+### 1.6. [[Normal Distribution]]
+### 1.7. [[Central Limit Theorem]]
 ### 1.8. Confidence intervals
 
 The **Confidence Interval (CI)** is the range of values that you expect your estimate to fall between a certain percentage of the time if you run your experiment again or re-sample the population in the same way.

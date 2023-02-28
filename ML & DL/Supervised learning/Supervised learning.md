@@ -1,4 +1,4 @@
-The computer is presented with example inputs and their desired outputs, given by a "teacher", and the goal is to learn a general rule that maps inputs to outputs.
+**Supervised learning (SL)** - is a field of [[machine learning]], that uses labeled inputs (meaning the input has a corresponding output label), given by a "teacher" and the goal is to learn a general rule that maps inputs to outputs
 
 #### Supervised learning models:
 

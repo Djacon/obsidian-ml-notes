@@ -3,8 +3,8 @@
 ### Topics in computer science:
 
 * [[Python]]
-	* Pandas
 	* Numpy
+	* Pandas
 	* Sklearn
 	* TF & Pytorch
 * SQL

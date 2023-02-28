@@ -28,12 +28,3 @@ Y_grad = _get_gradient_loss(y, y_pred) # ex: Y = 2 * (y_pred - y)
 w -= learning_rate * Y_grad @ X
 b -= learning_rate * Y_grad.sum()
 ```
-
-
-#### Addition:
-
-**Time Complexity**: 
-- $O(N^2D+D^3)$, where N - sample size, D - number of features  
-
-**Space Complexity**:  
--  ¯\\_(ツ)_/¯ 

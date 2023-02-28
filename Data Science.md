@@ -10,8 +10,8 @@
 
 * [[Computer Science]]
 	* [[Python]]
-		* Pandas
 		* Numpy
+		* Pandas
 		* Sklearn
 		* TF & Pytorch
 	* SQL

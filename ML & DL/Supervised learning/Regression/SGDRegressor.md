@@ -2,12 +2,12 @@
 
 #### Loss Function:
 $$
-Loss = \frac{1}{2n}RSS + \lambda\cdot l^1_{ratio}\cdot ||w||_1 + \frac{\lambda}2 \cdot (1-l^1_{ratio}) \cdot ||w||^2_2
+Loss = \frac{1}{2n}RSS + r(w)
 $$
 
 #### Derivative of a Function:
 $$
-\frac{\delta Loss}{\delta w_j} = \frac{1}{n}\sum_{i=1}^n(\hat y_i-y_i)\cdot x_{ji} + \lambda\cdot (l^1_{ratio}\cdot sgn(w_j) + (1-l^1_{ratio})\cdot w_j)
+\frac{\delta Loss}{\delta w_j} = \frac{1}{n}\sum_{i=1}^n(\hat y_i-y_i)\cdot x_{ji} + \frac{\delta r(w_j)}{\delta w_j}
 $$
 
 #### Analytic Solution:
@@ -23,7 +23,9 @@ Y_grad = _get_gradient_loss(y, y_pred) # ex: Y = 2 * (y_pred - y)
 
 # Update weights and bias
 w -= learning_rate * Y_grad @ X / (2 * n)
-w -= learning_rate * alpha * (l1_ratio * np.sign(w) + (1 - l1_ratio) * w)
+
+# Update with penalty (l1 / l2 / elastic-net / None)
+w -= learning_rate * regularization(w)
 
 b -= learning_rate * Y_grad.mean()
 ```

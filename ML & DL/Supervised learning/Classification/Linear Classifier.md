@@ -5,4 +5,4 @@ $$
 y = sgn(w_0 + w_1x_1 +\ \dots\ + w_nx_n + \epsilon)
 $$
 
-![[linear_classifier_image.png]]
+![[LinearClassifier_image.png]]

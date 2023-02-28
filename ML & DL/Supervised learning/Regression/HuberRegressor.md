@@ -1,4 +1,4 @@
-**HuberRegressor** is a statistical [[supervised learning]] linear model to predict the quantitative variable by forming a linear relationship with one or more independent features by using the [[Huber loss]] and [[Euclidean normalization]]
+**HuberRegressor** is a statistical [[supervised learning]] linear model to predict the quantitative variable by forming a linear relationship with one or more independent features by using the [[Huber loss]] and [[Euclidean distance]]
 
 #### Loss Function:
 $$

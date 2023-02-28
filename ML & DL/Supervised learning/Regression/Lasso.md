@@ -1,4 +1,4 @@
-**Least Absolute Shrinkage and Selection Operator (L1-regularization)** is an alternative to ridge for regularizing linear regression. Can be calculated by finding the [[Residual Sum of Squares]] (RSS) and [[Manhattan normalization]]
+**Least Absolute Shrinkage and Selection Operator (L1-regularization)** is an alternative to ridge for regularizing linear regression. Can be calculated by finding the [[Residual Sum of Squares]] (RSS) and [[Manhattan distance]]
 
 #### Loss Function:
 $$

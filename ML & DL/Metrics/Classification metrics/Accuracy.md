@@ -11,6 +11,9 @@ $$
 #### Pros and Cons:
 
 * Pros:
-	* -
+	* Easy to understand and interpret
+	* Useful when the classes are balanced
+	* Can provide a quick and general idea of how well a model is performing
 * Cons:
-	* -
+	* Bad for imbalanced data
+	* Does not take account False Negative (FN) and False Positive (FP) values
