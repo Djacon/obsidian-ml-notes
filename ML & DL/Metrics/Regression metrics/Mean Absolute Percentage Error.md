@@ -1,4 +1,4 @@
-**Mean Absolute Percentage Error (MAPE)** is a [[metric]] measures the ratios of the absolute error to the actual value. MAPE is a **Loss function**, corresponding to the expected value of the squared error loss.
+**Mean Absolute Percentage Error (MAPE)** is a [[metric]] measures the ratios of the absolute error to the actual value. MAPE is a **Loss function**, corresponding to the expected value of the squared error loss
 
 #### Evaluation Function:
 $$

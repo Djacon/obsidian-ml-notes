@@ -1,4 +1,4 @@
-**Residual Sum of Squares (RSS)** is also known as the **Sum of Squared estimate of Errors (SSE)**, is a [[metric]] measured the sum of the squares of residuals. A small RSS indicates a tight fit of the model to the data. It is used as an optimality criterion in parameter selection and model selection.
+**Residual Sum of Squares (RSS)** is also known as the **Sum of Squared estimate of Errors (SSE)**, is a [[metric]] measured the sum of the squares of residuals. A small RSS indicates a tight fit of the model to the data. It is used as an optimality criterion in parameter selection and model selection
 
 #### Evaluation Function:
 $$

@@ -5,7 +5,7 @@
 * [[Math]]
 	* [[Statistics]]
 	* Theory of Probability
-	* Calculus and analysis
+	* [[Calculus]]
 	* [[Algebra]]
 
 * [[Computer Science]]

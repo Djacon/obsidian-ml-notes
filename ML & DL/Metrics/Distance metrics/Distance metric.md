@@ -1,1 +1,1 @@
-**Distance metric** is a [[metric]] that provides a similarity measure between two data points. Distance metrics play a vital role in most machine learning models. They are basically used to enhance the performance of similarity-based algorithms.
+**Distance metric** is a [[metric]] that provides a similarity measure between two data points. Distance metrics play a vital role in most machine learning models. They are basically used to enhance the performance of similarity-based algorithms

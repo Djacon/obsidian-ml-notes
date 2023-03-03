@@ -3,12 +3,12 @@
 
 #### Evaluation Function:
 $$
-HUBER = \begin{cases} \frac{1}{2}(y-\hat y)^2, & \mbox{for } |y - \hat y| \leq \delta \\ \delta\cdot(|y-\hat y| - \frac{1}2\delta), & \mbox{otherwise.} \end{cases}
+HUBER = \begin{cases} \frac{1}{2}(y-\hat y)^2, & \mbox{for } |y - \hat y| \leq \delta \\ \delta\cdot(|y-\hat y| - \frac{1}2\delta), & \mbox{otherwise} \end{cases}
 $$
 
 #### Derivative of a Function:
 $$
-\delta HUBER = \begin{cases} \hat y - y, & \mbox{for } |y - \hat y| \leq \delta \\ \delta\cdot sgn(\hat y - y), & \mbox{otherwise.} \end{cases}
+\delta HUBER = \begin{cases} \hat y - y, & \mbox{for } |y - \hat y| \leq \delta \\ \delta\cdot sgn(\hat y - y), & \mbox{otherwise} \end{cases}
 $$
 
 #### Pros and Cons:

@@ -1,4 +1,4 @@
-**Root Mean Squared Error (RMSE)** is a [[metric]] measured the root of the [[mean squared error]] - that is, the root of the average squared difference between the estimated values and the actual value. RMSE is a **Loss function**, corresponding to the expected value of the squared error loss.
+**Root Mean Squared Error (RMSE)** is a [[metric]] measured the root of the [[mean squared error]] - that is, the root of the average squared difference between the estimated values and the actual value. RMSE is a **Loss function**, corresponding to the expected value of the squared error loss
 
 #### Evaluation Function:
 $$
