@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f4419d343dfaf353",
+        "id": "41e05056775d4a92",
         "type": "tabs",
         "children": [
           {
-            "id": "0c151592e44f643d",
+            "id": "9d9f387f871107b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/Statistics/Statistics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Statistics/Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math/Statistics/Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math/Statistics/Statistics.md"
+              }
             }
           }
         ]
@@ -138,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be7c3042c844e40d",
+  "active": "9d9f387f871107b8",
   "lastOpenFiles": [
-    "Data Science.md",
-    "ML & DL/Supervised learning/Support Vector Machines/Classification/Support Vector Classification.md",
-    "ML & DL/Supervised learning/Support Vector Machines/Classification/LinearSVC.md",
-    "ML & DL/Supervised learning/Nearest Neighbors/Regression/KNeighborsRegressor.md",
+    "Math/Statistics/Confidence intervals.md",
+    "Math/Statistics/Measures/Standard deviation.md",
+    "Math/Statistics/Statistics.md",
+    "Math/Statistics/Data.md",
+    "Math/Statistics/Population.md",
+    "Math/Statistics/Central Limit Theorem.md",
+    "Math/Statistics/Normal Distribution.md",
+    "Math/Statistics/Central Tendency Measures.md",
+    "Math/Statistics/Measures/Mode.md",
+    "Math/Statistics/Measures/Median.md",
+    "Math/Statistics/Measures/Mean.md",
+    "Math/Statistics/Sample.md",
     "ML & DL/Supervised learning/Nearest Neighbors/Classification/KNeighborsClassifier.md",
-    "ML & DL/Supervised learning/Linear models/Regression/SGDRegressor.md",
-    "ML & DL/Supervised learning/Linear models/Regression/Ridge.md",
-    "ML & DL/Supervised learning/Linear models/Regression/Linear Regressor.md",
-    "ML & DL/Supervised learning/Linear models/Regression/Linear Regression.md",
-    "ML & DL/Supervised learning/Linear models/Regression/Lasso.md",
-    "ML & DL/Supervised learning/Linear models/Regression/HuberRegressor.md",
-    "ML & DL/Supervised learning/Linear models/Regression/Elastic-net.md",
+    "Computer Science/Computer Science.md",
+    "ML & DL/Machine Learning.md",
+    "ML & DL/Datasets/Iris Dataset.md",
+    "ML & DL/Datasets/Dataset.md",
+    "Images/LogReg_image.webp",
+    "Images/Iris_image.webp",
+    "Images/Iris_image.webp.crdownload",
+    "ML & DL/Datasets",
+    "ML & DL/Supervised learning/Nearest Neighbors/Regression/KNeighborsRegressor.md",
+    "ML & DL/Supervised learning/Classification.md",
+    "ML & DL/Supervised learning/Support Vector Machines/Classification/Support Vector Classification.md",
     "ML & DL/Supervised learning/Linear models/Classification/SGDClassifier.md",
-    "ML & DL/Supervised learning/Linear models/Classification/Logistic Regression.md",
+    "ML & DL/Supervised learning/Linear models/Classification/Perceptron.md",
     "ML & DL/Supervised learning/Linear models/Classification/Linear Classifier.md",
-    "ML & DL/Supervised learning/Support Vector Machines/Support Vector Machines.md",
+    "ML & DL/Metrics/Classification metrics/Hinge loss.md",
+    "ML & DL/Supervised learning/Linear models/Regression/Lasso.md",
+    "ML & DL/Supervised learning/Linear models/Regression/Ridge.md",
+    "Images/Ensemble_image.png",
+    "Images/Ensemble_image.png.crdownload",
+    "ML & DL/Supervised learning/Ensembles/Regression",
+    "ML & DL/Supervised learning/Ensembles/Classification",
+    "ML & DL/Supervised learning/Ensembles",
     "ML & DL/Supervised learning/Support Vector Machines/Regression",
     "ML & DL/Supervised learning/Support Vector Machines/Classification",
     "ML & DL/Supervised learning/Nearest Neighbors/Regression",
-    "ML & DL/Supervised learning/Nearest Neighbors/Nearest Neighbors.md",
     "ML & DL/Supervised learning/Nearest Neighbors/Classification",
-    "ML & DL/Supervised learning/Linear models/Regression",
-    "ML & DL/Supervised learning/Linear models/Classification",
-    "ML & DL/Metrics/Regression metrics/Root Mean Squared Error.md",
-    "ML & DL/Metrics/Regression metrics/Residual Sum of Squares.md",
-    "ML & DL/Metrics/Regression metrics/R-Squared.md",
-    "ML & DL/Metrics/Regression metrics/Mean Squared Error.md",
-    "ML & DL/Metrics/Regression metrics/Mean Absolute Percentage Error.md",
-    "ML & DL/Metrics/Regression metrics/Mean Absolute Error.md",
-    "ML & DL/Metrics/Regression metrics/Huber loss.md",
-    "ML & DL/Metrics/Regression metrics/Adjusted R-Squared.md",
-    "ML & DL/Metrics/Distance metrics/Minkowski distance.md",
-    "ML & DL/Supervised learning/Support Vector Machines",
-    "ML & DL/Supervised learning/Nearest Neighbors",
-    "ML & DL/Supervised learning/Linear models",
-    "ML & DL/Metrics/Regression metrics",
     "Images/Types-Of-Data_image.png",
     "Images/TableOfIntegrals_image.png",
     "Images/T-distribution_image.jpg",
     "Images/SVM_image.png",
     "Images/Standardized_normal_distribution_image.jpg",
     "Images/Sampling_image.png",
-    "Images/Neuralnet_image.png",
-    "Images/NearestNeighbor_image.jpg",
-    "Images/ML_image.jpg",
-    "Images/Measure_of_central_tendency_image.jpg"
+    "Images/Neuralnet_image.png"
   ]
 }

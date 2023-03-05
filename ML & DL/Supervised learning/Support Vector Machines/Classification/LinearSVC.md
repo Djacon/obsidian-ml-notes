@@ -1,4 +1,4 @@
-**LinearSVC** is a linear version of [[Support Vector Classification]] (SVC), which is a popular machine learning algorithm used for binary classification. LinearSVC works by finding the best hyperplane that can separate data points of different classes with maximum margin
+**LinearSVC** is a linear version of [[Support Vector Classification]] (SVC), which is a popular machine learning algorithm used for binary [[classification]]. LinearSVC works by finding the best hyperplane that can separate data points of different classes with maximum margin
 
 #### Cost Function:
 $$

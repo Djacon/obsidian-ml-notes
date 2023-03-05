@@ -10,11 +10,11 @@
 	5. [[SGDRegressor]]
 	6. [[Logistic Regression]]
 2. Tree-Based Models:
-	1. Decision Tree Regressor
-	2. Random Forest Regressor
-	3. Gradient Boosting Regressor
-	4. Extra Trees Regressor
-	5. Ada Boost Regressor
+	1. DecisionTreeRegressor
+	2. RandomForestRegressor
+	3. GradientBoostingRegressor
+	4. ExtraTreesRegressor
+	5. AdaBoostRegressor
 3. Support Vector Machines (SVM):
 	1. SVR
 	2. SVC

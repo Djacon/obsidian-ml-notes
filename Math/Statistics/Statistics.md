@@ -30,19 +30,7 @@ A [[sample]] population is the part of the population that you study using tools
 
 ### 1.6. [[Normal Distribution]]
 ### 1.7. [[Central Limit Theorem]]
-### 1.8. Confidence intervals
-
-The **Confidence Interval (CI)** is the range of values that you expect your estimate to fall between a certain percentage of the time if you run your experiment again or re-sample the population in the same way.
-
-The **Standard Error (SE)** is the standard deviation (std) of its sampling distribution or an estimate of that standard deviation.
-
-$$
-\sigma_x^- = \frac{\sigma}{\sqrt{n}}\ or \ se = \frac{std}{\sqrt{n}}
-$$
-
-![[Confidence_interval_image.jpg]]
-
-
+### 1.8. [[Confidence intervals]]
 ### 1.9. The idea behind statistical inference
 
 **The null hypothesis ($H_0$)** is that there is **no significant** difference between the mean of the sample and the mean of the population 

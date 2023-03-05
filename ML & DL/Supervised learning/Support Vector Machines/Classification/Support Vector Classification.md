@@ -1,1 +1,2 @@
-**Support Vector Classification (SVC)** is a [[Support Vector Machines]] (SVM) model that...
+**Support Vector Classification (SVC)** is a [[Support Vector Machines]] algorithm in [[machine learning]] used for [[classification]] tasks. It belongs to the family of [[linear classifier]] and nonlinear classifier and works by finding the best hyperplane that separates the different classes in the input data
+

@@ -28,4 +28,4 @@ w -= learning_rate * regularization(w)
 b -= learning_rate * Y_grad.mean()
 ```
 
-![[LogReg.webp]]
+![[LogReg_image.webp]]

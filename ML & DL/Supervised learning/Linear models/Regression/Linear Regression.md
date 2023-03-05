@@ -1,19 +1,20 @@
-**Linear Regression (LR)** is a statistical supervised learning [[linear regressor]] to predict the quantitative variable by forming a linear relationship with one or more independent features by minimazing the [[Residual Sum of Squares]] (RSS) or [[Mean Squared Error]] (MSE)
+**Linear Regression (LR)** is a statistical supervised learning [[linear regressor]] to predict the continuous target variable by forming a linear relationship with one or more independent features by minimazing the [[Residual Sum of Squares]] (RSS) or [[Mean Squared Error]] (MSE)
 
 #### Cost Function:
 $$
-Cost = MSE = \frac{1}{n}\sum_{i=1}^n(y_i-\hat y_i)^2
+MSE = \frac{1}{n}\sum_{i=1}^n(y_i-\hat y_i)^2
 $$
 
 #### Derivative of a Function:
 $$
-\delta Cost = \delta MSE = \frac{2}{n}\sum_{i=1}^n(\hat y_i-y_i)
+\frac{\delta MSE}{\delta w_j} = \frac{2}{n}\sum_{i=1}^n(\hat y_i-y_i)x_{ji}
 $$
 
 #### Analytic Solution:
 $$
 w = (X^TX)^{-1}X^Ty
 $$
+
 
 #### Numerical method:
 
