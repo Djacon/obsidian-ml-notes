@@ -8,7 +8,7 @@ $$
 v_{\delta w_j} \rightarrow \frac{\beta_2 \cdot v_{\delta w_j} + (1 - \beta_2) \cdot \delta w_j^2}{1 - \beta_2^t}
 $$
 $$
-w_j \rightarrow w_j - \alpha\cdot \frac{\delta w_j}{\sqrt{v_{\delta w_j}} + \epsilon},
+w_j \rightarrow w_j - \alpha\cdot \frac{m_{\delta w_j}}{\sqrt{v_{\delta w_j}} + \epsilon},
 $$
 
 #### Pros and Cons:

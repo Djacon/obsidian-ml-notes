@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41e05056775d4a92",
+        "id": "132b6535ac5cc01b",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9f387f871107b8",
+            "id": "964f5ef7db39bce2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Statistics/Statistics.md",
+                "file": "ML & DL/Metrics/Impurity measures/Entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "c6345032d83fde00",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Statistics/Statistics.md",
+                "file": "ML & DL/Metrics/Impurity measures/Entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Statistics/Statistics.md",
+                "file": "ML & DL/Metrics/Impurity measures/Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Statistics/Statistics.md"
+                "file": "ML & DL/Metrics/Impurity measures/Entropy.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d9f387f871107b8",
+  "active": "964f5ef7db39bce2",
   "lastOpenFiles": [
-    "Math/Statistics/Confidence intervals.md",
-    "Math/Statistics/Measures/Standard deviation.md",
-    "Math/Statistics/Statistics.md",
-    "Math/Statistics/Data.md",
-    "Math/Statistics/Population.md",
-    "Math/Statistics/Central Limit Theorem.md",
-    "Math/Statistics/Normal Distribution.md",
-    "Math/Statistics/Central Tendency Measures.md",
-    "Math/Statistics/Measures/Mode.md",
-    "Math/Statistics/Measures/Median.md",
-    "Math/Statistics/Measures/Mean.md",
-    "Math/Statistics/Sample.md",
-    "ML & DL/Supervised learning/Nearest Neighbors/Classification/KNeighborsClassifier.md",
-    "Computer Science/Computer Science.md",
-    "ML & DL/Machine Learning.md",
-    "ML & DL/Datasets/Iris Dataset.md",
+    "ML & DL/Metrics/Impurity measures/Entropy.md",
+    "ML & DL/Metrics/Impurity measures/Gini index.md",
+    "ML & DL/Metrics/Regression metrics/Mean Absolute Percentage Error.md",
+    "ML & DL/Metrics/Distance metrics/Distance metric.md",
+    "ML & DL/Metrics/Distance metrics/Minkowski distance.md",
+    "ML & DL/Metrics/Distance metrics/Manhattan distance.md",
+    "ML & DL/Metrics/Distance metrics/Euclidean distance.md",
+    "ML & DL/Metrics/Regression metrics/Huber loss.md",
+    "ML & DL/Metrics/Regression metrics/Adjusted R-Squared.md",
+    "ML & DL/Metrics/Impurity measures/Impurity Measure.md",
+    "ML & DL/Metrics/Metric.md",
+    "ML & DL/Metrics/Regression metrics/Mean Absolute Error.md",
+    "ML & DL/Supervised learning/Trees/Decision Tree.md",
+    "ML & DL/Supervised learning/Trees/Classification/DecisionTreeClassifier.md",
+    "ML & DL/Metrics/Impurity measures",
+    "ML & DL/Supervised learning/Trees/Regression/DecisionTreeRegressor.md",
+    "ML & DL/Supervised learning/Classification.md",
+    "ML & DL/Supervised learning/Regression.md",
+    "ML & DL/Metrics/Regression metrics/Mean Squared Error.md",
+    "ML & DL/Metrics/Classification metrics/Accuracy.md",
+    "ML & DL/Metrics/Regression metrics/Root Mean Squared Error.md",
+    "ML & DL/Metrics/Regression metrics/Residual Sum of Squares.md",
+    "ML & DL/Metrics/Regression metrics/R-Squared.md",
+    "ML & DL/Optimizers/Adam.md",
     "ML & DL/Datasets/Dataset.md",
+    "ML & DL/Supervised learning/Naive Bayes/Classification/GaussianNB.md",
+    "ML & DL/Supervised learning/Naive Bayes/Naive Bayes.md",
+    "ML & DL/Supervised learning/Naive Bayes/Classification",
+    "Images/NaiveBayes_image.png",
+    "Images/NaiveBayes_image.png.crdownload",
+    "ML & DL/Supervised learning/Naive Bayes",
+    "Images/DTC_image.jpg",
+    "Images/DTC_image.jpg.crdownload",
+    "Images/Confusion_matrix_image.jpg",
+    "Images/Confusion_matrix_image.jpg.crdownload",
+    "Images/Confusion_matrix_image.png",
+    "Images/Confusion_matrix_image.png.crdownload",
+    "ML & DL/Supervised learning/Trees/Regression",
+    "ML & DL/Supervised learning/Trees/Classification",
+    "ML & DL/Supervised learning/Trees",
     "Images/LogReg_image.webp",
     "Images/Iris_image.webp",
-    "Images/Iris_image.webp.crdownload",
-    "ML & DL/Datasets",
-    "ML & DL/Supervised learning/Nearest Neighbors/Regression/KNeighborsRegressor.md",
-    "ML & DL/Supervised learning/Classification.md",
-    "ML & DL/Supervised learning/Support Vector Machines/Classification/Support Vector Classification.md",
-    "ML & DL/Supervised learning/Linear models/Classification/SGDClassifier.md",
-    "ML & DL/Supervised learning/Linear models/Classification/Perceptron.md",
-    "ML & DL/Supervised learning/Linear models/Classification/Linear Classifier.md",
-    "ML & DL/Metrics/Classification metrics/Hinge loss.md",
-    "ML & DL/Supervised learning/Linear models/Regression/Lasso.md",
-    "ML & DL/Supervised learning/Linear models/Regression/Ridge.md",
     "Images/Ensemble_image.png",
-    "Images/Ensemble_image.png.crdownload",
-    "ML & DL/Supervised learning/Ensembles/Regression",
-    "ML & DL/Supervised learning/Ensembles/Classification",
-    "ML & DL/Supervised learning/Ensembles",
-    "ML & DL/Supervised learning/Support Vector Machines/Regression",
-    "ML & DL/Supervised learning/Support Vector Machines/Classification",
-    "ML & DL/Supervised learning/Nearest Neighbors/Regression",
-    "ML & DL/Supervised learning/Nearest Neighbors/Classification",
     "Images/Types-Of-Data_image.png",
     "Images/TableOfIntegrals_image.png",
-    "Images/T-distribution_image.jpg",
-    "Images/SVM_image.png",
-    "Images/Standardized_normal_distribution_image.jpg",
-    "Images/Sampling_image.png",
-    "Images/Neuralnet_image.png"
+    "Images/T-distribution_image.jpg"
   ]
 }

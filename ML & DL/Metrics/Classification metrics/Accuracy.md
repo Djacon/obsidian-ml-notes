@@ -2,7 +2,7 @@
 
 #### Evaluation Function:
 $$
-Accuracy = \frac{1}{n}\sum_{i=1}^n[\hat y_i = y_i]
+\mbox{Accuracy} = \frac{1}{n}\sum_{i=1}^n[\hat y_i = y_i]
 $$
 
 #### Derivative of a Function:

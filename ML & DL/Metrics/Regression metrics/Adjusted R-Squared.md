@@ -1,5 +1,4 @@
-**$R^2_{adj}$ (Adjusted $R^2$)** an improved version of the [[R-squared]] [[metric]], which does not depend on the number of regressors (factors)
-
+**$R^2_{adj}$ (Adjusted $R^2$)** an improved version of the [[R-squared]] [[metric]], which does not depend on the number of regressors (factors) and makes an adjustment for the number of independent variables in the model
 
 #### Evaluation Function:
 $$

@@ -5,8 +5,8 @@
 1. [[Linear Regression]]
 2. [[Ridge]] (L2-regularization)
 3. [[Lasso]] (L1-regularization)
-4. DecisionTreeRegression
-5. RandomForestRegressor
+4. [[DecisionTreeRegressor]]
+5. [[RandomForestRegressor]]
 6. [[KNeighborsRegressor]]
 7. Support Vector Regression (SVR)
 8. Gaussian Regression
