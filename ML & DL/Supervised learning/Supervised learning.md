@@ -9,15 +9,15 @@
 	4. [[Elastic-net]]
 	5. [[SGDRegressor]]
 	6. [[Logistic Regression]]
-2. Tree-Based Models:
-	1. DecisionTreeRegressor
-	2. RandomForestRegressor
+2. [[Decision Tree]]:
+	1. [[DecisionTreeRegressor]]
+	2. [[RandomForestRegressor]]
 	3. GradientBoostingRegressor
 	4. ExtraTreesRegressor
 	5. AdaBoostRegressor
-3. Support Vector Machines (SVM):
+3. [[Support Vector Machines]] (SVM):
 	1. SVR
-	2. SVC
-4. Naive Bayes:
-	1. GaussianNB
+	2. [[Support Vector Classification]] (SVC)
+4. [[Naive Bayes]]:
+	1. [[GaussianNB]]
 	2. MultinomialNB

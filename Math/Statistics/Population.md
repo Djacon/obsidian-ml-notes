@@ -1,1 +1,3 @@
-**Population** is a set of similar items or events which is of interest for some question or experiment. A statistical population can be a group of existing objects (e.g. set of all stars within the Milky Way galaxy) or a hypothetical and potentially infinite group of objects conceived as a generalization from experience (e.g. the set of all possible hands in a game of poker). A common aim of statistical analysis is to produce information about some chosen population
+**Population** refers to the **entire** group of individuals, objects, or events that share a common characteristic or feature of interest. For example, the population of all students enrolled in a particular university, or the population of all cars produced by a certain manufacturer
+
+![[Population_image.jpg]]

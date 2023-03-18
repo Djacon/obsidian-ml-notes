@@ -1,1 +1,1 @@
-**RandomForestRegressor** is an [[ensemble]] meta-estimator
+[[RandomForestClassifier]] is an [[ensemble]] learning algorithm that fits multiple [[DecisionTreeRegressor]] to randomly sampled subsets of the training data, and aggregates their predictions to improve the accuracy and robustness of the model

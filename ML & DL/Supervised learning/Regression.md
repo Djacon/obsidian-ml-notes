@@ -10,8 +10,6 @@
 6. [[KNeighborsRegressor]]
 7. Support Vector Regression (SVR)
 8. Gaussian Regression
-9. Polynomial Regression
-
 
 #### List of basic [[Metric]] for Regression:
 

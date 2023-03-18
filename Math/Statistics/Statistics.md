@@ -1,20 +1,7 @@
 **Statistics** is a mathematical body of science that refers to the collection, analysis, interpretation or explanation, and presentation of [[data]], or as a branch of [[math]]. Some consider statistics to be a distinct mathematical science rather than a branch of mathematics. While many scientific investigations make use of data, statistics is concerned with the use of data in the context of uncertainty and decision making in the face of uncertainty
 
 ## 1. Introduction:
-### 1.1. Population and sample
-
-The [[Population]] is the entire population of units of observation that are relevant to the topic of the study. For example, if you are doing a product study, your general population is likely to be all service users or a specific segment.
-
-A [[sample]] population is the part of the population that you study using tools you've developed (questionnaire, guide, etc.).
-
-**There are 3 types of Sampling:**
-1. **Simple random sample** (SRS, We select random values from the whole sample)
-2. **Stratified sample** (We divide the sample into groups and take random values from each)
-3. **Cluster sample** (We divide the sample into clusters, select only some of them, and take random values from there)
-
-![[Sampling_image.png]]
-
-
+### 1.1. [[Population]] and [[sample]]
 ### 1.2. Types of [[Data]] in statistics
 ### 1.3. [[Central tendency measures]]
 ### 1.4. [[Measure of Variability]]
