@@ -1,4 +1,4 @@
-**Hinge loss** is a [[metric]] used for training classifiers. The hinge loss is used for "maximum-margin" classification, most notably for [[support vector machines]] (SVM)
+**Hinge loss** is a [[metric]] used for training classifiers. The hinge loss is used for "maximum-margin" classification, most notably for [[Support Vector Machines]] (SVM)
 
 
 #### Evaluation Function:

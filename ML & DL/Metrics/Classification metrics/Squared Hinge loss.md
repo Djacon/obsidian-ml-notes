@@ -1,4 +1,4 @@
-**Squared Hinge loss** is a modified version of [[metric]] of the [[hinge loss]] function, it commonly used in [[support vector machines]]. Its primary advantage is that it is a smooth, continuous function that can be easily differentiated. This makes it easier to optimize using gradient-based methods
+**Squared Hinge loss** is a modified version of [[metric]] of the [[hinge loss]] function, it commonly used in [[Support Vector Machines]]. Its primary advantage is that it is a smooth, continuous function that can be easily differentiated. This makes it easier to optimize using gradient-based methods
 
 #### Evaluation Function:
 $$

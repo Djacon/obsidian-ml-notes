@@ -1,1 +1,0 @@
-**DecisionTreeClassifier** is a [[decision tree]] model used for [[classification]] tasks. Algorithm works by recursively partitioning the feature space into smaller regions, with each partition being defined by a split on one of the input features

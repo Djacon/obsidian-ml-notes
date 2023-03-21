@@ -1,4 +1,4 @@
-**Entropy** is an [[impurity measure]] used in [[decision tree]] algorithms to measure the randomness or impurity in a dataset. A value of 0 means all examples belong to the same class, while a value of 1 means the dataset is equally distributed among all classes
+**Entropy** is an [[impurity measure]] used in [[Decision Tree]] algorithms to measure the randomness or impurity in a dataset. A value of 0 means all examples belong to the same class, while a value of 1 means the dataset is equally distributed among all classes
 
 #### Evaluation Function
 $$

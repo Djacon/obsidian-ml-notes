@@ -1,1 +1,0 @@
-**Reinforcement learning (RL)** is a field of [[machine learning]] where program interacts with environment in which it perform a certain goal (such as driving a vehicle or playing a game against an opponent). As it navigates its problem space, the program is provided rewards, which it tries to maximize

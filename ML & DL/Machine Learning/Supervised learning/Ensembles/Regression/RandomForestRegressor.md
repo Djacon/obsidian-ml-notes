@@ -1,0 +1,1 @@
+[[RandomForestClassifier]] is an [[Ensemble]] learning algorithm that fits multiple [[DecisionTreeRegressor]] to randomly sampled subsets of the training data, and aggregates their predictions to improve the accuracy and robustness of the model

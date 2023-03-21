@@ -1,4 +1,4 @@
-**Confusion Matrix** is a [[metric]] table that is used to evaluate the performance of a [[machine learning]] algorithm. It provides a summary of the number of correct and incorrect predictions made by the algorithm, compared to the actual results
+**Confusion Matrix** is a [[metric]] table that is used to evaluate the performance of a [[Machine Learning]] algorithm. It provides a summary of the number of correct and incorrect predictions made by the algorithm, compared to the actual results
 
 ![[Confusion_matrix_image.jpg]]
 
