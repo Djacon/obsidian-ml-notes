@@ -20,4 +20,4 @@ $$
 * Cons:
 	* Not robust to outliers (that's a big disadvantage when we have a lot of outliers in the data)
 	* Units of measurement (MSE has no defined unit of measurement, which makes it difficult to interpret the metric value in real-world terms)
-	* Does not account for [[variance]]: (if the predictions are scattered above and below the actual values they can have good MSE accuracy, while the model does poorly)
+	* Does not account for [[variance]] (if the predictions are scattered above and below the actual values they can have good MSE accuracy, while the model does poorly)
