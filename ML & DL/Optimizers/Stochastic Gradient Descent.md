@@ -2,7 +2,7 @@
 
 #### Optimization Algorithm:
 $$ 
-w_j \rightarrow w_j - \frac{\alpha}n \sum_{i=1}^n\frac{\delta L_i}{\delta w_j}  
+w_j \leftarrow w_j - \frac{\alpha}n \sum_{i=1}^n\delta w_j  
 $$
 
 #### Pros and Cons:

@@ -1,8 +1,8 @@
-**Gradient descent** is a first-order iterative [[optimization algorithm]] used to minimize a given function, such as a loss function in ML. The goal is to find the minimum value of the function by iteratively moving towards its local or global minimum.
+**Gradient descent** is a first-order iterative [[optimization algorithm]] used to minimize a given function, such as a loss function in ML. The goal is to find the minimum value of the function by iteratively moving towards its local or global minimum
 
 #### Optimization Algorithm:
-$$  
-w_j \rightarrow w_j - \alpha \cdot \frac{\delta L}{\delta w_j}  
+$$
+w_j \leftarrow w_j - \alpha \cdot \delta w_j
 $$
 
 #### Pros and Cons:
