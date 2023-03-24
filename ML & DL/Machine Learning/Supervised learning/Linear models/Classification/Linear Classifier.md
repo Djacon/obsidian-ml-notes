@@ -1,4 +1,4 @@
-**Linear classifiers** are a type of machine learning [[Classification]] algorithm used for predicting the class of a given input. The basic idea behind these models is to use a linear function to separate the different classes
+**Linear classifiers** are a type of machine learning [[classification]] algorithm used for predicting the class of a given input. The basic idea behind these models is to use a linear function to separate the different classes
 
 #### Prediction formula:
 $$

@@ -1,4 +1,4 @@
-**SGDClassifier** is a [[Linear Classifier]] that implements [[stochastic gradient descent]] (SGD). It supports various loss functions for classification, including the [[hinge loss]] (for SVM-style classification), the [[log-loss]] (for logistic regression), and the modified Huber loss
+**SGDClassifier** is a [[Linear Classifier]] that implements [[stochastic gradient descent]] (SGD). It supports various loss functions for classification, including the [[hinge loss]] (for SVM-style classification), the [[log-loss]] (for logistic regression), and the modified Huber loss / [source](https://github.com/Djacon/skmini/blob/main/skmini/linear_model/_classification.py#L59)
 
 #### Cost Function:
 $$

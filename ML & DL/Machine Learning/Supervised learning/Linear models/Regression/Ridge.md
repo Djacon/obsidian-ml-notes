@@ -1,4 +1,4 @@
-**Ridge (L2-regularization)** is a [[Linear Regressor]] of estimating the coefficients of multiple-regression models in scenarios where the independent variables are highly correlated. Can be calculated by finding the [[Mean Squared Error]] (MSE) and [[Euclidean distance]]
+**Ridge (L2-regularization)** is a [[linear regressor]] of estimating the coefficients of multiple-regression models in scenarios where the independent variables are highly correlated. Can be calculated by finding the [[Mean Squared Error]] (MSE) and [[Euclidean distance]] / [source](https://github.com/Djacon/skmini/blob/main/skmini/linear_model/_regression.py#L29)
 
 #### Cost Function:
 $$

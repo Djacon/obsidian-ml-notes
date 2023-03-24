@@ -1,1 +1,1 @@
-**BaggingRegressor** is an [[Ensemble]] meta-estimator that fits base regressors each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction
+**BaggingRegressor** is an [[ensemble]] meta-estimator that fits base regressors each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction / [source](https://github.com/Djacon/skmini/blob/main/skmini/ensemble/_bagging.py#L61)

@@ -1,4 +1,4 @@
-**Logistic Regression** is a statistical [[Linear Classifier]] used to predict the probability of an event occurring by comparing it to a logistic curve. This regression gives the answer as the probability of a binary event (1 or 0)
+**Logistic Regression** is a statistical [[linear classifier]] used to predict the probability of an event occurring by comparing it to a logistic curve. This regression gives the answer as the probability of a binary event (1 or 0) / [source](https://github.com/Djacon/skmini/blob/main/skmini/linear_model/_classification.py#L13)
 
 #### Cost Function:
 $$

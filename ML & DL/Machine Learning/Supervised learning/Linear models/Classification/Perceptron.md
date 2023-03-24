@@ -1,4 +1,4 @@
-**Perceptron** is a [[Linear Classifier]] which is used in binary [[Classification]] problems. It is a simple and efficient algorithm for training a linear binary classifier. The algorithm uses [[Hinge loss]] and one of the three regularizers ([[Lasso]] / [[Ridge]] / [[Elastic-net]] / None)
+**Perceptron** is a [[linear classifier]] which is used in binary [[classification]] problems. It is a simple and efficient algorithm for training a linear binary classifier. The algorithm uses [[Hinge loss]] and one of the three regularizers / [source](https://github.com/Djacon/skmini/blob/main/skmini/linear_model/_classification.py#L72)
 
 #### Cost Function:
 $$

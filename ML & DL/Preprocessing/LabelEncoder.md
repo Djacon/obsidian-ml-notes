@@ -1,5 +1,4 @@
-**LabelEncoder** is a [[preprocessing]] method, that encode target labels with value between 0 and n_classes-1
-
+**LabelEncoder** is a [[preprocessing]] method for encoding categorical variables into numerical values, which can be used as input for ML [[model]]. In other words, it's a process of converting categorical data into a numerical form, so that the algorithm can understand and operate on it / [source](https://github.com/Djacon/skmini/blob/main/skmini/preprocessing/_label.py#L6)
 
 #### Example:
 

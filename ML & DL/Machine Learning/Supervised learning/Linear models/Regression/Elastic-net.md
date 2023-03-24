@@ -1,4 +1,4 @@
-**Elastic net** is a [[Linear Regressor]] model is a regularized regression method that linearly combines the L1 and L2 penalties of the [[Lasso]] and [[Ridge]] methods. Also it used in the fitting of linear or logistic regression models
+**Elastic net** is a [[Linear Regressor]] model is a regularized regression method that linearly combines the L1 and L2 penalties of the [[Lasso]] and [[Ridge]] methods. Also it used in the fitting of linear or logistic regression models / [source](https://github.com/Djacon/skmini/blob/main/skmini/linear_model/_regression.py#L38)
 
 #### Cost Function:
 $$

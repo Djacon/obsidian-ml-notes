@@ -1,0 +1,3 @@
+**Leave-One-Out (LOO)** is a type of [[cross-validation]] technique used in [[machine learning]] to evaluate the performance of a [[model]]. It involves leaving out **one** data point from the dataset, training the model on the remaining data points, and then testing the model's accuracy on the left-out data point. This process is repeated for all the data points in the dataset / [source](https://github.com/Djacon/skmini/blob/main/skmini/model_selection/_split.py#L47)
+
+![[LOO_image.webp]]

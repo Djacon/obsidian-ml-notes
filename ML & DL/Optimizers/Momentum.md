@@ -2,10 +2,10 @@
 
 #### Optimization Algorithm:
 $$
-m_{\delta w_j} \leftarrow \beta \cdot m_{\delta w_j} + (1 - \beta) \cdot \delta w_j
+m_{\delta w_j} \leftarrow \beta \cdot m_{\delta w_j} + \alpha \cdot \delta w_j
 $$
 $$
-w_j \leftarrow w_j - \alpha\cdot \frac{\delta w_j}{\sqrt{m_{\delta w_j}} + \epsilon},
+w_j \leftarrow w_j - m_{\delta w_j}
 $$
 
 #### Pros and Cons:

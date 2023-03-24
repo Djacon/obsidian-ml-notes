@@ -1,0 +1,1 @@
+**Data normalization** is a [[preprocessing]] technique of transforming numerical data into a standard format to make it more consistent and comparable. The goal of normalization is to scale the data in a way that removes any inconsistencies, outliers, or biases that may be present in the data, and to make it suitable for analysis and modeling

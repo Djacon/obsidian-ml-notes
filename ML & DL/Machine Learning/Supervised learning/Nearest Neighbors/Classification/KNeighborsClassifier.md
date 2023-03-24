@@ -1,4 +1,4 @@
-**KNeighborsClassifier** is a popular [[Nearest Neighbors]] algorithm for [[Classification]] tasks. In KNN, the prediction of a new data point is based on the [[mode]] of its k nearest neighbors in the training dataset. The value of $k$ is a hyperparameter that needs to be set before training the algorithm
+**KNeighborsClassifier** is a popular [[nearest neighbors]] algorithm for [[classification]] tasks. Here prediction of new data point is based on the [[mode]] of its k nearest neighbors in the training data. The value of $k$ is a hyperparameter that needs to be set before training the algorithm / [source](https://github.com/Djacon/skmini/blob/main/skmini/neighbors/_neighbors.py#L8)
 
 #### Distance metric:
 $$

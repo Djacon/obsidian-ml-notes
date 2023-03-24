@@ -1,4 +1,4 @@
-**HuberRegressor** is a statistical supervised learning [[Linear Regressor]] to predict the quantitative variable by forming a linear relationship with one or more independent features by using the [[Huber loss]] and [[Euclidean distance]]
+**HuberRegressor** is a statistical supervised learning [[Linear Regressor]] to predict the quantitative variable by forming a linear relationship with one or more independent features by using the [[Huber loss]] and [[Euclidean distance]] / [source](https://github.com/Djacon/skmini/blob/main/skmini/linear_model/_regression.py#L59)
 
 #### Cost Function:
 $$

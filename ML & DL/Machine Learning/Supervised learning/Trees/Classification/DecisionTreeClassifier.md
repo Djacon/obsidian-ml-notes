@@ -1,1 +1,1 @@
-**DecisionTreeClassifier** is a [[Decision Tree]] model used for [[Classification]] tasks. Algorithm works by recursively partitioning the feature space into smaller regions, with each partition being defined by a split on one of the input features
+**DecisionTreeClassifier** is a [[Decision Tree]] model used for [[Classification]] tasks. Algorithm works by recursively partitioning the feature space into smaller regions, with each partition being defined by a split on one of the input features / [source](https://github.com/Djacon/skmini/blob/main/skmini/tree/_tree.py#L178)

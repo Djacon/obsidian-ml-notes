@@ -1,0 +1,1 @@
+**Cross-validation** is a [[model selection]] technique used to assess the performance and accuracy of a machine learning [[model]]. It involves dividing the dataset into multiple subsets or "folds," with one subset reserved as the validation or testing set, and the rest used as the training set

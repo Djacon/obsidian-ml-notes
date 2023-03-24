@@ -1,0 +1,2 @@
+**Data Standardization** is a [[data normalization]] technique that transforms the features in a dataset to have zero [[mean]] and unit [[variance]], which means that the mean of each feature is subtracted from each value of that feature, and then the result is divided by the standard deviation of the feature. This process transforms the features so that they have a similar scale and distribution, making them easier to compare and analyze
+

@@ -1,4 +1,4 @@
-**GaussianNB** is a [[Naive Bayes]] algorithm used for [[Classification]]. Its based on Bayes' theorem and assumes that the features in a dataset are independent of each other, given the class variable. The main advantage of GNB is its ability to handle high-dimensional data with many features
+**GaussianNB** is a [[naive bayes]] algorithm used for [[classification]]. Its based on Bayes' theorem and assumes that the features in a dataset are independent of each other, given the class variable. The main advantage of GNB is its ability to handle high-dimensional data with many features / [source](https://github.com/Djacon/skmini/blob/main/skmini/naive_bayes/_naive_bayes.py#L13)
 
 #### Probability formula:
 $$
