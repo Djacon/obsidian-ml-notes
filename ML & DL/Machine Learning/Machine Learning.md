@@ -8,7 +8,7 @@
 	* [[Regression]]
 		* $Y = \mathbb{R}$
 * [[Unsupervised learning]] (UL)
-	* Clustering
+	* [[Clustering]]
 	* [[Dimensionality reduction]]
 * [[Reinforcement learning]] (RL)
 

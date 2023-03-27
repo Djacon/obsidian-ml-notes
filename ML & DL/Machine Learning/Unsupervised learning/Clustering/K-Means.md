@@ -1,0 +1,1 @@
+**K-Means** is a popular [[clustering]] algorithm used for clustering data points into groups or clusters. It's a simple and effective algorithm that partitions a given dataset into K clusters based on their distance from the cluster center or centroid

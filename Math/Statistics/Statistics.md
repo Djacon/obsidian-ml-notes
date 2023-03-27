@@ -20,7 +20,7 @@
 ### 1.8. [[Confidence intervals]]
 ### 1.9. The idea behind statistical inference
 
-**The null hypothesis ($H_0$)** is that there is **no significant** difference between the mean of the sample and the mean of the population 
+**The null hypothesis ($H_0$)** is that there is **no significant** difference between the mean of the sample and the mean of the population
 
 **Alternative hypothesis ($H_1$)** is a **significant** deviation between the mean of the sample and the mean of the population 
 

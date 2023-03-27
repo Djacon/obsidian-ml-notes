@@ -2,8 +2,8 @@
 
 #### Unsupervised learning models:
 
-* Clustering
-	* K-Means
+* [[Clustering]]
+	* [[K-Means]]
 	* AgglomerativeClustering
 	* Spectral Clustering
 * [[Dimensionality reduction]]

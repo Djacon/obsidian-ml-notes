@@ -3,13 +3,12 @@
 #### List of the main classification algorithms in ML:
 
 * [[Logistic Regression]]
-* Linear Discriminant Analysis (LDA)
 * [[GaussianNB]]
 * [[DecisionTreeClassifier]]
 * [[RandomForestClassifier]]
 * [[KNeighborsClassifier]]
+* [[Neural Networks]]
 * [[Support Vector Classification]] (SVC)
-
 
 #### List of basic [[Metric]] for Classification:
 
