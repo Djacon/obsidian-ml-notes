@@ -1,4 +1,4 @@
-**Normal distribution** or **Gaussian distribution** is a type of continuous probability distribution for real-valued variable. The general form of its **probability density function** (PDF) is:
+**Normal distribution (Gaussian distribution)** is a type of continuous probability distribution for real-valued variable. The general form of its **probability density function** (PDF) is:
 
 $$
 f(x) = \frac{1}{\sigma\sqrt{2\pi}}e^{-(\frac{x-\mu}{4\sigma})^2}
