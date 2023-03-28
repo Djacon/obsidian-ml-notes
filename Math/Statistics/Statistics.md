@@ -1,4 +1,4 @@
-**Statistics** is a mathematical body of science that refers to the collection, analysis, interpretation or explanation, and presentation of [[data]], or as a branch of [[math]]. Some consider statistics to be a distinct mathematical science rather than a branch of mathematics. While many scientific investigations make use of data, statistics is concerned with the use of data in the context of uncertainty and decision making in the face of uncertainty
+**Statistics** is a branch of [[math]] that deals with the collection, analysis, interpretation, presentation, and organization of [[data]]. It involves using mathematical and statistical methods to extract meaning and insights from data, and to make informed decisions based on the results
 
 ## 1. Introduction:
 ### 1.1. [[Population]] and [[sample]]
