@@ -7,9 +7,9 @@
 ### 1.4. [[Measure of Variability]]
 ### 1.5. Distribution quartiles and boxplot
 
-**Quantile** is the value that a given random variable does not exceed with a fixed probability: $P(X \leq x_a) \geq \alpha$
+[[Quantile]] is the value that a given random variable does not exceed with a fixed probability: $P(X \leq x_a) \geq \alpha$
 
-**Quartiles** is a 3 points (feature values), which divides the ordered data set into 4 equal parts
+[[Quartiles]] is a 3 points (feature values), which divides the ordered data set into 4 equal parts
 
 **Boxplot** is a method that shows the distribution of quantitative data in a way that simplifies comparisons between variables or between levels of a categorical variable
 
