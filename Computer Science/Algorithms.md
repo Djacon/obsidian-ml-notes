@@ -1,1 +1,1 @@
-In [[Math]] and [[Computer Science]], an **algorithm** is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing
+**Algorithm**, in [[math]] and [[computer science]], is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing

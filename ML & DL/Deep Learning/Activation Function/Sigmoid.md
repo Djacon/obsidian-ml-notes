@@ -1,7 +1,6 @@
-**Sigmoid** is a [[activation function]] with a characteristic "S"-shaped curve or sigmoid curve. It transforms any value in the domain $(−∞, ∞)$ to a number between 0 and 1
+**Sigmoid function**, in [[deep learning]], is a type of [[activation function]] commonly used in [[neural networks]]. The sigmoid function is a non-linear function that maps any real-valued number to a value between 0 and 1
 
-
-#### Evaluation Function:
+#### Activation Function:
 $$
 \sigma(z) = \frac{1}{1+e^{-z}}
 $$
@@ -14,6 +13,10 @@ $$
 #### Pros and Cons:
 
 * Pros:
-	* -
+	* Easy to understand and interpret
+	* Useful for binary classification
+	* It has smooth derivative
 * Cons:
-	* -
+	* Problem of [[gradient decay]]
+	* Not zero-centered
+	* Prone to saturation (this can lead to slow converges)

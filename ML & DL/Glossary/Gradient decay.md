@@ -1,0 +1,1 @@
+**Gradient decay** (затухание градиента) is a technique used in [[optimization algorithm]] to prevent the [[gradient]] from becoming too large during the training of a [[neural networks]]. When the gradient of a neural network becomes too large, it can cause the optimization algorithm to overshoot the minimum point, resulting in slow convergence or even divergence
