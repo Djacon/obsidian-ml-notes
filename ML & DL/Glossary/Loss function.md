@@ -1,0 +1,1 @@
+**Loss function** is a function that maps values of one or more variables onto a real number intuitively representing some "cost" associated with the event. An [[optimization algorithm]] seeks to minimize a loss function

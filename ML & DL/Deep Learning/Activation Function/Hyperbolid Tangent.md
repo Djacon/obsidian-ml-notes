@@ -7,7 +7,7 @@ $$
 
 #### Derivative of a Function:
 $$
-\tanh'(z) = 1-\tanh^2(z) = \dots
+\tanh'(z) = 1-\tanh^2(z) = \frac{4}{(e^z+e^{-z})^2}
 $$
 
 #### Pros and Cons:
