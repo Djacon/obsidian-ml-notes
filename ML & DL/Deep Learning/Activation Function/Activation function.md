@@ -3,8 +3,9 @@
 #### Types of Activation functions:
 
 * [[Sigmoid]]
-* [[Hyperbolid Tangent]] (Tanh)
-* [[Rectified Linear Unit]] (ReLU)
+* [[Hyperbolid Tangent|Tanh]] (Hyperbolid Tangent)
+* [[Rectified Linear Unit||ReLU]] (Rectified Linear Unit)
 * [[Leaky ReLU]]
+* [[Maxout]]
 
 ![[Activator_image.png]]

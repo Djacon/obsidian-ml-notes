@@ -1,5 +1,6 @@
-**Rectified Linear Unit (ReLU)** in [[deep learning]], is a popular [[activation function]] commonly used in [[neural networks]] models. It's a simple function that returns the maximum of its input and zero
+**Rectified Linear Unit (ReLU)** in [[deep learning]], is a popular [[activation function]] commonly used in [[neural networks]] models. In simple terms, the ReLU function returns the input if it is positive, and returns 0 if the input is negative
 
+![[ReLU_image.png|400]]
 
 #### Activation Function:
 $$

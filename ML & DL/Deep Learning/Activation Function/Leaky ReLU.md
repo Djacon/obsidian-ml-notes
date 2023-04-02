@@ -1,5 +1,7 @@
 **Leaky ReLU** is a variation of the popular [[Rectified Linear Unit]] (ReLU) [[activation function]] that addresses one of the drawbacks of the original ReLU function. It's a simple function that returns the maximum of its input and other value $\alpha \in (0; 1)$
 
+![[LeakyReLU_image.png|400]]
+
 #### Activation Function:
 $$
 \mbox{Leaky ReLU}(z) = \max(\alpha x,\ x)
