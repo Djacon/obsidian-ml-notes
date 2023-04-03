@@ -1,1 +1,0 @@
-**Python** is a high level, general-purpose programming language. It's design philosophy emphasizes code readability with the use of significant indentation
