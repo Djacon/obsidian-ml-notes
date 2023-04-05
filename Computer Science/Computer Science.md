@@ -3,10 +3,10 @@
 ### Topics in computer science:
 
 * [[Python]]
-	* Numpy
+	* [[Numpy]]
 	* Pandas
 	* Sklearn
-	* TF & Pytorch
+	* TF & [[Pytorch]]
 * SQL
 * Git
 * [[Algorithms]]

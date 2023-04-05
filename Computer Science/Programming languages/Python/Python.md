@@ -2,7 +2,7 @@
 
 #### Libraries and Frameworks:
 
-* Numpy
+* [[Numpy]]
 * Pandas
 * Sklearn
 * [[Pytorch]]
