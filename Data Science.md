@@ -19,7 +19,7 @@
 	* [[Algorithms]]
 
 * [[Machine Learning]] (ML) & [[Deep Learning]] (DL)
-	* [[Neural Networks]]
+	* [[neural network|Neural Networks]]
 	* [[Computer Vision]] (CV)
 	* [[Natural Language Processing]] (NLP)
 	* RecSys/Classic ML

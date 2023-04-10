@@ -1,4 +1,4 @@
-**Sigmoid function**, in [[deep learning]], is a type of [[activation function]] commonly used in [[neural networks]]. The sigmoid function is a non-linear function that maps any real-valued number to a value between 0 and 1
+**Sigmoid function**, in [[deep learning]], is a type of [[activation function]] commonly used in [[neural network|neural networks]]. The sigmoid function is a non-linear function that maps any real-valued number to a value between 0 and 1
 
 ![[Sigmoid_image.png|400]]
 

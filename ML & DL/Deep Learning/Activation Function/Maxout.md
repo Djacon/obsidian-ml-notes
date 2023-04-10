@@ -1,4 +1,4 @@
-**Maxout** is an [[activation function]] that is commonly used in [[deep learning]] [[neural networks]]. It was introduced as a way to overcome the limitations of other activation functions, such as the [[Rectified Linear Unit|ReLU]] and [[sigmoid]] functions, in certain types of neural networks
+**Maxout** is an [[activation function]] that is commonly used in [[deep learning]] [[neural network|neural networks]]. It was introduced as a way to overcome the limitations of other activation functions, such as the [[Rectified Linear Unit|ReLU]] and [[sigmoid]] functions, in certain types of neural networks
 
 ![[Maxout_image.png|300]]
 

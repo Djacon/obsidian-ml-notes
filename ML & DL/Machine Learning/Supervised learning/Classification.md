@@ -7,7 +7,7 @@
 * [[DecisionTreeClassifier]]
 * [[RandomForestClassifier]]
 * [[KNeighborsClassifier]]
-* [[Neural Networks]]
+* [[Neural Network]]
 * [[Support Vector Classification]] (SVC)
 
 #### List of basic [[Metric]] for Classification:
