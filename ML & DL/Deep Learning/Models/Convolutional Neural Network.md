@@ -1,0 +1,1 @@
+**Convolutional Neural Network (CNN)** is a [[deep learning]] model that most often used in [[computer vision]]. The [[model]] is trained by [[convolution|convolutions]] with filters
