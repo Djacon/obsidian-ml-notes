@@ -1,4 +1,4 @@
-**Softmax function** is a [[activation function]] that turns numbers aka logits into probabilities that sum to one. Softmax function outputs a vector that represents the probability distributions of a list of potential outcomes
+**Softmax** is a [[activation function]] used in [[machine learning]], specifically in the context of [[classification]] problems. The softmax function takes as input a vector of scores or logits and converts them into a probability [[distribution]] over a set of classes
 
 #### Activation Function:
 $$
@@ -13,6 +13,9 @@ $$
 #### Pros and Cons:
 
 * Pros:
-	* 
+	* Probability interpretation
+	* Differentiability
+	* Input normalization
 * Cons:
-	* 
+	* Sensitive to outliers (specifically in imbalance data)
+	* Computational expensive

@@ -1,0 +1,1 @@
+**State Of The Art (SOTA)**, in the context of [[deep learning]], it refers to the most advanced and effective [[model|models]] for solving a particular task or problem. These models typically incorporate the latest advancements in the field, such as new [[neural network]] architectures, [[Optimization algorithm|optimization techniques]] or training methodologies

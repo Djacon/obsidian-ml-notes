@@ -1,0 +1,1 @@
+**Convolutional Neural Network (CNN)** is a type of [[deep learning]] network that is commonly used in [[computer vision]] tasks such as image classification, object detection, and segmentation. In a CNN, filters are the key components that extract features from the input data. The filters are small matrices of weights that are learned during the training process
