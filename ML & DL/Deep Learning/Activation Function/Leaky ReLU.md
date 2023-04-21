@@ -17,7 +17,7 @@ $$
 * Pros:
 	* Computationally efficient
 	* Non-saturating
-	* Solves the "dying ReLU" problem by allowing non-zero gradient
+	* Solves the "dying ReLU" problem by allowing non-zero [[gradient]]
 	* Sparsity (it can produce sparsity in activations, where many of the output values are zero)
 * Cons:
 	* Not fully zero-centered

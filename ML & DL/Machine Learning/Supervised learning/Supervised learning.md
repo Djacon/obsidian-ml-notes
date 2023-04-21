@@ -12,7 +12,7 @@
 * [[Decision Tree]] / [[Ensemble]]:
 	* [[DecisionTreeRegressor]]
 	* [[RandomForestRegressor]]
-	* GradientBoostingRegressor
+	* [[GradientBoostingRegressor]]
 	* ExtraTreesRegressor
 	* AdaBoostRegressor
 * [[Support Vector Machines]] (SVM):

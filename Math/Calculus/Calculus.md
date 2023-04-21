@@ -1,1 +1,7 @@
-**Calculus** is the math study of continuous change. It has two major branches, [[differential calculus]] and [[integral calculus]]; the former concerns instantaneous rates of change, and the slopes of curves, while the latter concerns accumulation of quantities, and areas under or between curves
+**Calculus** is a branch of [[math]] that deals with the study of continuous change and motion. It's a powerful tool for analyzing and modeling complex systems that involve variables that change over time or space
+
+#### Main Fields of Calculus:
+
+* [[Differential Calculus]]
+* [[Integral Calculus]]
+* Fundamental Theorem of Calculus

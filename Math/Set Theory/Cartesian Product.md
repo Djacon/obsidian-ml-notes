@@ -1,4 +1,4 @@
-**Cartesian Product** of two sets $A$ and $B$ is the set of all [[ordered pairs]] $(a, b)$ where $a$ is in $A$ and $b$ is in $B$
+[[Cartesian product]] of two sets A and B, denoted as $A \times B$, is defined as the [[set]] of all possible [[ordered pairs]] $(a,\ b)$ where $a$ is an element of $A$ and $b$ is an element of $B$. In other words, it is the set of all possible combinations of elements from A and B
 
 
 In terms of [[set-builder notation]], that is:

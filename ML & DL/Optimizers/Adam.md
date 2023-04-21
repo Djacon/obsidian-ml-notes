@@ -1,4 +1,4 @@
-**Adam (ADAptive Moment estimator)** is an [[optimization algorithm]] that combines the benefits of both [[RMSProp]] and [[Momentum]] optimizations. It maintains a moving average of the gradients and their squared values and uses them to adapt the learning rate of each weight during training
+**Adam (ADAptive Moment estimator)** is an [[optimization algorithm]] that combines the benefits of both [[RMSProp]] and [[Momentum]] optimizations. It maintains a moving average of the [[gradient|gradients]] and their squared values and uses them to adapt the learning rate of each weight during training
 
 #### Optimization Algorithm:
 $$

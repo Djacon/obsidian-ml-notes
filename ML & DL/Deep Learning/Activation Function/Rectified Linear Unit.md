@@ -21,4 +21,4 @@ $$
 	* Sparsity (it can produce sparsity in activations, where many of the output values are zero)
 * Cons:
 	* Not zero-centered
-	* Dying ReLU problem (neurons can die if they get stuck in the negative region, where the gradient is always zero)
+	* Dying ReLU problem (neurons can die if they get stuck in the negative region, where the [[gradient]] is always zero)

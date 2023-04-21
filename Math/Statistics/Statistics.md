@@ -2,7 +2,7 @@
 
 ## 1. Introduction:
 ### 1.1. [[Population]] and [[sample]]
-### 1.2. Types of [[Data]] in statistics
+### 1.2. [[Data|Types of Data in statistics]]
 ### 1.3. [[Central tendency measures]]
 ### 1.4. [[Measure of Variability]]
 ### 1.5. Distribution quartiles and boxplot

@@ -1,4 +1,4 @@
-**RMSProp (Root Mean Square Propagation)** is a [[optimization algorithm]] that adapts the learning rate for each parameter based on the root mean squared gradients of the previous time steps. The main idea behind RMSProp is to reduce the learning rate for parameters that have high variance in the gradients, while increasing the learning rate for parameters that have low variance in the gradients
+**RMSProp (Root Mean Square Propagation)** is a [[optimization algorithm]] that adapts the learning rate for each parameter based on the root mean squared [[gradient|gradients]] of the previous time steps. The main idea behind RMSProp is to reduce the learning rate for parameters that have high variance in the gradients, while increasing the learning rate for parameters that have low variance in the gradients
 
 #### Optimization Algorithm:
 $$

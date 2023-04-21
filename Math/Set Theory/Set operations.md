@@ -1,5 +1,4 @@
-**Set operations** is a concept similar to fundamental operations on numbers. There are four main set operations which include set union, set intersection, set complement, and set difference
-
+**Set operations**, in [[set theory]], is a concept similar to fundamental operations on numbers. There are four main set operations which include set union, set intersection, set complement, and set difference
 
 The **complement** of A is written as $\bar A$
 * $\bar A = \{a \in U\ |\ a \not\in A\}$

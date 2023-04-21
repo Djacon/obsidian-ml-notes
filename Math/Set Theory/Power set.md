@@ -1,4 +1,4 @@
-**Power set (or Powerset)** of a set $S$ is the set of all subsets of $S$, including the empty set and $S$ itself. Any subset of $p(S)$ is called a family of sets over $S$
+**Power set (or Powerset)** of a set $S$ is the [[set]] of all subsets of $S$, including the empty set and $S$ itself. Any subset of $p(S)$ is called a family of sets over $S$
 
 
 A **power set of A**, $p(A)$, is the set containing all possible subsets of A

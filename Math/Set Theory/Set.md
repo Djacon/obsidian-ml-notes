@@ -1,4 +1,4 @@
-**Set** is the [[math]] model for a collection of different things; a **set** contains elements or members, which can be mathematical objects of any kind: numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets
+**Set**, in [[set theory]], is the [[math]] model for a collection of different things; a **set** contains elements or members, which can be mathematical objects of any kind: numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets
 
 **List notation examples:**
 $A = \{x\ |\ x \in N\} \Rightarrow A = \{1,\ 2,\ 3,\ 4,\ \dots\}$ 
