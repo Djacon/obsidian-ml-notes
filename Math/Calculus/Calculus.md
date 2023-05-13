@@ -4,4 +4,3 @@
 
 * [[Differential Calculus]]
 * [[Integral Calculus]]
-* Fundamental Theorem of Calculus

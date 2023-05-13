@@ -5,5 +5,4 @@
 * [[Numpy]]
 * Pandas
 * Sklearn
-* [[Pytorch]]
-* Tensorflow
+* [[Pytorch]] / [[Tensorflow]]
