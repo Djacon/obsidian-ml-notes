@@ -10,10 +10,10 @@
 
 * [[Computer Science]]
 	* [[Python]]
-		* Numpy
+		* [[NumPy]]
 		* Pandas
-		* Sklearn
-		* TF & [[Pytorch]]
+		* [[Sklearn]]
+		* [[Tensorflow|TF]] & [[Pytorch]]
 	* SQL
 	* Git
 	* [[Algorithms]]

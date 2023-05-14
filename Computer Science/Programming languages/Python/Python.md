@@ -2,7 +2,7 @@
 
 #### Libraries and Frameworks:
 
-* [[Numpy]]
+* [[NumPy]]
 * Pandas
-* Sklearn
+* [[Sklearn]]
 * [[Pytorch]] / [[Tensorflow]]
