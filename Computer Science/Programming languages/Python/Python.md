@@ -3,6 +3,6 @@
 #### Libraries and Frameworks:
 
 * [[NumPy]]
-* Pandas
+* [[Pandas]]
 * [[Sklearn]]
 * [[Pytorch]] / [[Tensorflow]]

@@ -11,7 +11,7 @@
 * [[Computer Science]]
 	* [[Python]]
 		* [[NumPy]]
-		* Pandas
+		* [[Pandas]]
 		* [[Sklearn]]
 		* [[Tensorflow|TF]] & [[Pytorch]]
 	* SQL
