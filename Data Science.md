@@ -13,7 +13,7 @@
 		* Numpy
 		* Pandas
 		* Sklearn
-		* TF & Pytorch
+		* TF & [[Pytorch]]
 	* SQL
 	* Git
 	* [[Algorithms]]
