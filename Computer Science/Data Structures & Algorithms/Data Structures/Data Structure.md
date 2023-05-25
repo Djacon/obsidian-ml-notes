@@ -2,8 +2,8 @@
 
 #### Main data structures:
 
-* Array
-* List / Queue / Stack
+* [[Array]]
+* Linked List / Queue / Stack
 * Graph
 * String
 * Hash
