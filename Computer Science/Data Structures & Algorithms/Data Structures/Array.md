@@ -3,10 +3,10 @@
 
 #### Time Complexity:
 
-|Average||||...|Worst||||
-|:-:|-|-|-|:-:|-|-|-|-|
-| Access | Search | Insertion | Deletion |...| Access | Search | Insertion | Deletion |
-| O(1) | O(n) | O(n) | O(n) |...| O(1) | O(n) | O(n) | O(n)
+|Average|||...|Worst|||
+|:-:|-|-|:-:|-|-|-|
+| Access | Search | Insert / Delete |...| Access | Search | Insert / Delete |
+| O(1) | O(n) | O(n) |...| O(1) | O(n) | O(n)
 
 
 #### Space Complexity:
