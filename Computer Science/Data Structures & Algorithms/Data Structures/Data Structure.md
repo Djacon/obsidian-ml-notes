@@ -6,7 +6,7 @@
 * [[Linked List]] / [[Queue]] / [[Stack]]
 * Graph
 * String
-* Hash
+* [[Hash Table]]
 * Tree / Heap
 
 ![[Data_structure_image.jpg]]
