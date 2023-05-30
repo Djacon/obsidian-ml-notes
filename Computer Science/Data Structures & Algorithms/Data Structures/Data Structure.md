@@ -4,9 +4,8 @@
 
 * [[Array]]
 * [[Linked List]] / [[Queue]] / [[Stack]]
-* Graph
-* String
+* [[Graph]]
 * [[Hash Table]]
-* Tree / Heap
+* [[Tree]] / Heap
 
 ![[Data_structure_image.jpg]]
