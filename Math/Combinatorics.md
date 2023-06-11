@@ -1,6 +1,5 @@
 **Combinatorics** is an area of [[math]] primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures. It is closely related to many other areas of mathematics and has many applications ranging from logic to statistical physics and from evolutionary biology to [[computer science]]
 
-
 **The number of Permutations (P) (order matters):**
 * Repeats allowed: $n^k$
 * No Repeats: $\frac{n!}{(n-k)!}$
