@@ -1,4 +1,4 @@
-**Mean Squared Logarithmic Error (MSLE)** is a commonly used [[metric]] and loss function in regression tasks, which measures the difference between the logarithm of predicted values and the logarithm of actual values
+**Mean Squared Logarithmic Error (MSLE)** is a commonly used [[metric]] and [[loss function]] in [[regression]] tasks, which measures the difference between the logarithm of predicted values and the logarithm of actual values
 
 #### Evaluation Function:
 $$

@@ -1,4 +1,4 @@
-**Tree** [[data structure]] is a way of representing how a hierarchical system is organized. As such, tree structures are ideal for storing hierarchical data. A binary search tree (BST) is a tree structure in which each nonterminal node has no more than two child nodes
+**Tree** [[data structure]] is a way of representing how a hierarchical system is organized. As such, tree structures are ideal for storing hierarchical [[data]]. A binary search tree (BST) is a tree structure in which each nonterminal node has no more than two child nodes
 
 
 #### Time Complexity:
