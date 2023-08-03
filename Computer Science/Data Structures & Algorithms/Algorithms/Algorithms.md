@@ -3,7 +3,7 @@
 #### Fundamental Algorithms:
 
 * Sorting Algorithms:
-	* Bubble sort
+	* [[Bubble sort]]
 	* Insertion / Selection / Merge sort
 	* Radix / Quick sort / Timsort
 * Shortest Path Algorithms:
