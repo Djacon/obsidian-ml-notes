@@ -1,4 +1,4 @@
-**Algebra** is the study of variables and the rules for manipulating these variables in formulas. It is a unifying thread of almost all [[Math]]
+**Algebra** is the study of variables and the rules for manipulating these variables in formulas. It is a unifying thread of almost all [[math]]
 
 
 ### Topics in algebra:

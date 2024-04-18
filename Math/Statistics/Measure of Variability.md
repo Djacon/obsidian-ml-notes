@@ -1,4 +1,4 @@
-**Measures of variability** are statistical indicators that describe the differences between individual values of the [[sample]]. They allow us to judge the degree of homogeneity of the obtained set, its compactness, and, indirectly, the reliability of the data obtained and the results derived from them.
+**Measures of variability** are [[statistics|statistical]] indicators that describe the differences between individual values of the [[sample]]. They allow us to judge the degree of homogeneity of the obtained set, its compactness, and, indirectly, the reliability of the [[data]] obtained and the results derived from them
 
 ##### Main measures of variability:
 * [[Range]] - difference of maximum and minimum values

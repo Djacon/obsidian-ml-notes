@@ -1,4 +1,4 @@
-**The Central Limit Theorem (CLT)** establishes that, in many situations, for identically distributed independent samples, the standardized sample mean tends towards the standard [[normal distribution]] even if the original variables themselves are not normally distributed
+**The Central Limit Theorem (CLT)** establishes that, in many situations, for identically distributed independent [[sample|samples]], the standardized sample [[mean]] tends towards the standard [[normal distribution]] even if the original variables themselves are not normally distributed
 
 #### Math formula:
 $$

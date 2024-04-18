@@ -2,10 +2,11 @@
 
 #### Main Fields of Deep Learning:
 
-* [[Computer Vision]]
-* [[Natural Language Processing]]
+* [[Computer Vision|Computer Vision (CV)]]
+* [[Natural Language Processing|Natural Language Processing (NLP)]]
 * Speech Processing (ASR/TTS)
-* Recommender Systems (RecSys)
+* Recommendation Systems (RecSys)
+* [[Large Language Model|Large Language Models (LLMs)]]
 * Robotics (soon, i hope...)
 
 ![[DeepLearning_image.webp]]

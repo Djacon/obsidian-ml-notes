@@ -2,5 +2,5 @@
 
 #### Main Fields of Calculus:
 
-* [[Differential Calculus]]
+* [[Differential Equations]]
 * [[Integral Calculus]]

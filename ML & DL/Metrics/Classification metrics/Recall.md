@@ -1,4 +1,4 @@
-**Recall** is a [[metric]] used in [[Machine Learning]] to measure the ability of a model to correctly identify all relevant instances or examples of a particular class in a dataset. In other words, **Recall** is the proportion of truly positives (TP) among all actual positives ($y_i = 1$) in a binary [[Classification]]
+**Recall** is a [[metric]] used in [[machine learning]] to measure the ability of a [[model]] to correctly identify all relevant instances or examples of a particular class in a dataset. In other words, **Recall** is the proportion of truly positives (TP) among all actual positives ($y_i = 1$) in a binary [[classification]]
 
 #### Evaluation Function:
 $$

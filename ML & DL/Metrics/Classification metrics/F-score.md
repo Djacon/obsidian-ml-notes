@@ -1,4 +1,4 @@
-**F-score** is a [[metric]] used in [[Machine Learning]] to evaluate the overall performance of a binary [[Classification]] model. The F-score is the harmonic mean of [[precision]] and [[recall]], and it is used to balance the trade-off between precision and recall
+**F-score** is a [[metric]] used in [[machine learning]] to evaluate the overall performance of a binary [[classification]] model. The F-score is the harmonic mean of [[precision]] and [[recall]], and it is used to balance the trade-off between precision and recall
 
 #### Evaluation Function:
 $$

@@ -1,4 +1,4 @@
-**Precision** is a [[metric]] used in [[Machine Learning]] to evaluate the accuracy of a [[Classification]] model. It is defined as the ratio of true positives (TP) to the sum of true positives and false positives (FP). In other words, **Precision** is the proportion of truly positive to all classified as positive
+**Precision** is a [[metric]] used in [[machine learning]] to evaluate the accuracy of a [[classification]] model. It is defined as the ratio of true positives (TP) to the sum of true positives and false positives (FP). In other words, **Precision** is the proportion of truly positive to all classified as positive
 
 #### Evaluation Function:
 $$

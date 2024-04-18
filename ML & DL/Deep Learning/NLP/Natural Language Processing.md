@@ -1,3 +1,13 @@
-**Natural Language Processing (NLP)** is a interdisciplinary subfield of linguistics, [[computer science]], and [[artificial intelligence]] concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves
+**Natural Language Processing (NLP)** is a interdisciplinary field of linguistics, [[computer science]], and [[artificial intelligence]] concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data
 
-Challenges in NLP frequentrly involve speech recognition, natural-language understanding, and natural-language generation
+### NLP Roadmap:
+
+* **Word Embeddings**
+* **Text Classification**
+* **Language Modeling**
+* **Seq2seq and Attention**
+* **Transfer Learning**
+* **LLMs and Prompting**
+* **Transformer architecture and training**
+
+![[NLP_image.jpg|700]]

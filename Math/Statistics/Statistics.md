@@ -1,11 +1,11 @@
 **Statistics** is a branch of [[math]] that deals with the collection, analysis, interpretation, presentation, and organization of [[data]]. It involves using mathematical and statistical methods to extract meaning and insights from data, and to make informed decisions based on the results
 
-## 1. Introduction:
-### 1.1. [[Population]] and [[sample]]
-### 1.2. [[Data|Types of Data in statistics]]
-### 1.3. [[Central tendency measures]]
-### 1.4. [[Measure of Variability]]
-### 1.5. Distribution quartiles and boxplot
+#### 1. Introduction:
+##### 1.1. [[Population]] and [[sample]]
+##### 1.2. [[Data|Types of Data in statistics]]
+##### 1.3. [[Central tendency measures]]
+##### 1.4. [[Measure of Variability]]
+##### 1.5. Distribution quartiles and boxplot
 
 [[Quantile]] is the value that a given random variable does not exceed with a fixed probability: $P(X \leq x_a) \geq \alpha$
 
@@ -15,10 +15,10 @@
 
 ![[Boxplot_outliers_image.webp]]
 
-### 1.6. [[Normal Distribution]]
-### 1.7. [[Central Limit Theorem]]
-### 1.8. [[Confidence intervals]]
-### 1.9. The idea behind statistical inference
+##### 1.6. [[Normal Distribution]]
+##### 1.7. [[Central Limit Theorem]]
+##### 1.8. [[Confidence intervals]]
+##### 1.9. The idea behind statistical inference
 
 **The null hypothesis ($H_0$)** is that there is **no significant** difference between the mean of the sample and the mean of the population
 
@@ -30,8 +30,8 @@
 **Type 2 Error** - $H_0$ is accepted, although $H_1$ are true
 
 
-## 2. Comparison of averages:
-### 2.1. T-distribution
+#### 2. Comparison of averages:
+##### 2.1. T-distribution
 
 If the number of observations is small and unknown, then the **T-distribution** is used: unimodal, symmetric, but observations are more likely to fall outside the $\pm 2\sigma$ limit of the mean $M$ than the normal distribution.
 
@@ -40,7 +40,7 @@ The shape of the distribution is determined by the number of **degrees of freedo
 ![[T-distribution_image.jpg]]
 
 
-### 2.2. Comparison of two averages; Student's t-test
+##### 2.2. Comparison of two averages; Student's t-test
 
 $$H_0: M_1 = M_2,\ H_1: M_1 \neq M2$$
 $$

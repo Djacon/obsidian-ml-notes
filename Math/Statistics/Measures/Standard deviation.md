@@ -1,4 +1,4 @@
-**Standard deviation (std, or $\sigma$)** is a measure that find the dispersion of a dataset relative to its mean. The standard deviation is calculated as the square root of [[variance]] by determining each data point's deviation relative to the mean
+**Standard deviation (std, or $\sigma$)** is a measure that find the dispersion of a dataset relative to its mean. The standard deviation is calculated as the square root of [[variance]] by determining each data point's deviation relative to the [[mean]]
 
 #### Math formula:
 $$

@@ -1,8 +1,8 @@
-**Quartile** is a type of [[quantile]] that divides a data set into four equal parts or quarters. The quartiles are used to describe the distribution of a data set, identify the spread of the data, and identify potential outliers
+[]()**Quartile** is a type of [[quantile]] that divides a data set into four equal parts or quarters. The quartiles are used to describe the distribution of a data set, identify the spread of the data, and identify potential outliers
 
 #### Math Formula:
 $$
-\text{¯\_(ツ)\_/¯}
+\text{¯\\\_(ツ)\_/¯}
 $$
 
 #### Function implementation:

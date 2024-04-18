@@ -1,4 +1,4 @@
-**Linear Regression (LR)** is a statistical supervised learning [[linear regressor]] to predict the continuous target variable by forming a linear relationship with one or more independent features by minimazing the [[Residual Sum of Squares]] (RSS) or [[Mean Squared Error]] (MSE) / [source](https://github.com/Djacon/skmini/blob/main/skmini/linear_model/_regression.py#L11)
+**Linear Regression (LR)** is a statistical [[supervised learning]] [[linear regressor]] to predict the continuous target variable by forming a linear relationship with one or more independent features by minimazing the [[Residual Sum of Squares]] (RSS) or [[Mean Squared Error]] (MSE) / [source](https://github.com/Djacon/skmini/blob/main/skmini/linear_model/_regression.py#L11)
 
 #### Cost Function:
 $$

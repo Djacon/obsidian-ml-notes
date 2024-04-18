@@ -1,4 +1,4 @@
-**Log-Loss (aka Binary Cross-Entropy, BCE)** is a commonly used [[metric]] in binary classification problems. It measures the difference between the predicted probability (either 0 or 1) and the true binary label, by computing the negative log-likelihood of the predicted probability distribution
+**Log-Loss (aka Binary Cross-Entropy, BCE)** is a commonly used [[metric]] in binary [[classification]] problems. It measures the difference between the predicted probability (either 0 or 1) and the true binary label, by computing the negative log-likelihood of the predicted probability distribution
 
 #### Evaluation Function:
 $$

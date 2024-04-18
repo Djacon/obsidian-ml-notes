@@ -1,4 +1,4 @@
-**Classification** is a [[machine learning]] algorithm in which the target label "$y$" is predicted using various features $X$. The input data can be anything, including continuous numbers, text, pictures, etc., while the output should be an **integer (discrete value)**
+**Classification** is a [[machine learning]] algorithm in which the target label "$y$" is predicted using various features $X$. The input [[data]] can be anything, including continuous numbers, text, pictures, etc., while the output should be an **integer (discrete value)**
 
 #### List of the main classification algorithms in ML:
 

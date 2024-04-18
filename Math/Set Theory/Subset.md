@@ -1,4 +1,4 @@
-In mathematics, [[set]] $A$ is a **subset** of a set $B$ if all elements of $A$ are also elements of $B$; $B$ is then a superset of $A$
+In [[math|mathematics]], [[set]] $A$ is a **subset** of a set $B$ if all elements of $A$ are also elements of $B$; $B$ is then a superset of $A$
 
 * If **A** is a **subset** of **B**, then every element in A must also be in B ($A \subseteq B$)
 

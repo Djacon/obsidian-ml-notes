@@ -1,4 +1,4 @@
-**Central Tendency Measures** is a measure to describe a set of values by a single number, using various methods. For example, instead of listing salaries of all employees, they talk about the mean salary. There are many measures of central tendency; the final choice of measure is always left to the researcher
+**Central Tendency Measures** is a measure to describe a set of values by a single number, using various methods. (e.g. instead of listing salaries of all employees, we only consider the mean salary). There are many measures of central tendency, but the final choice is left to the resercher
 
 ##### Main measures of central tendency:
 * [[Mean]] is an average value in the sample

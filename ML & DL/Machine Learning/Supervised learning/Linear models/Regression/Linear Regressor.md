@@ -1,4 +1,4 @@
-**Linear Regressors** is a family of models that are a linear combination of $w$ weights, independent variables $X$, and errors $\epsilon$. It's usually used when solving [[regression]] problems, but can also be used when working with time series analysis / [source](https://github.com/Djacon/skmini/blob/113a1021714606b838b470e6c62bbc389005bf1c/skmini/linear_model/_base.py#L12)
+**Linear Regressors** is a family of [[model|models]] that are a linear combination of $w$ weights, independent variables $X$, and errors $\epsilon$. It's usually used when solving [[regression]] problems, but can also be used when working with time series analysis / [source](https://github.com/Djacon/skmini/blob/113a1021714606b838b470e6c62bbc389005bf1c/skmini/linear_model/_base.py#L12)
 
 #### Prediction formula:
 $$

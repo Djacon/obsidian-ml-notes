@@ -1,4 +1,4 @@
-**Variance (Дисперсия)** is the expectation of the squared deviation of a random variable from its population mean or sample mean. Variance is a measure of dispersion, meaning it is a measure of how far a set of numbers is spread out from their average value
+**Variance (Дисперсия)** is the expectation of the squared deviation of a random variable from its [[population]] mean or sample mean. Variance is a measure of dispersion, meaning it is a measure of how far a set of numbers is spread out from their [[mean|average value]]
 
 #### Math formula:
 $$
